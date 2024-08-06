@@ -16,11 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 <p>
 <br> <strong> Welcome to Zhenyu's website! </strong>
 </p>
+
 <p>
 "I'm Zhenyu Sun, and you can also call me Walker or Sorry. These two nicknames come from the names and songs of two musicians. I am now an undergraduate of South China University of Technology at Guangzhou, China, and" <a href="/Zhenyu_Sun_Personal_CV.pdf">here</a> "is my CV for more specific information."
+</p>
+
+<p>
+"My research so far has concentrated on 3D-Reconstruction and Generative AI. As I deepen my exploration of Generative models and 3D Reconstruction methods, my goal is to achieve the alignment and interaction between textual information and 3D scene presentation, and to establish a strong mapping between the two on LLM (Large Language Models), providing the cornerstone of Platonic cognition for strong artificial intelligence."
 </p>
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -32,9 +38,10 @@ redirect_from:
 - *2024.06*: &nbsp;🎉🎉 Get the National Second Prize of MathorCup Mathematical Application Challenge <span style="color:red;">(Top 5%)</span>!
 - *2023.12*: &nbsp;🎉🎉 Get the First Prize of National College Students’ Mathematics Competition Guangdong Division! 
 - *2023.12*: &nbsp;🎉🎉 Get the First Prize of Huawei ICT Competition Guangdong Division! 
+
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/Aerial-NeRF.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering](https://arxiv.org/pdf/2405.06214)
