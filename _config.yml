@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenyu Sun"
-description              : 
+description              : "2022 - present"
 repository               : "ZhenyuSun-Walker/zhenyu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/ZhenyuSun-Walker
+  github           : "ZhenyuSun-Walker"
   google_plus      :
   keybase          :
   instagram        :
