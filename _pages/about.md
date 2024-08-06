@@ -16,10 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<p>
+<br> <strong> Welcome to Zhenyu's website! </strong>
+</p>
+<p>
+"I'm Zhenyu Sun, and you can also call me Walker or Sorry. These two nicknames come from the names and songs of two musicians. I am now an undergraduate of South China University of Technology at Guangzhou, China, and" <a href="/Zhenyu_Sun_Personal_CV.pdf">here</a> "is my CV for more specific information."
+</p>
 
-I'mm Zhenyu Sun, and you can also call me Walker or Sorry. These two nicknames come from the names and songs of two musicians. I am now an undergraduate of South China University of Technology at Guangzhou, China, and <a href="/Zhenyu_Sun_Personal_CV.pdf">here</a> is my CV for more specific information.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
