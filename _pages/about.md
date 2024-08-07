@@ -36,7 +36,7 @@ I'm Zhenyu Sun, and you can also call me Walker or Sorry. These two nicknames co
 - *2023.12*: &nbsp;🎉🎉 Get the First Prize of Huawei ICT Competition Guangdong Division! 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024 Under Review</div><img src='/images/Aerial-NeRF.png' alt="sym" style="width: 100%; height: auto;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024 Under Review</div><img src='/images/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering](https://arxiv.org/pdf/2405.06214)
@@ -183,7 +183,7 @@ window.addEventListener('resize', calculateTotalWidth);
 </style>
 
 <br>
-<div style="width: 500px; height: 500px; margin: auto;"> <!-- 设置您想要的宽度和高度 -->
+<div style="width: 500px; height: 500px; margin: auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UC6ibAca1Av5EPZP3WPd9Xzwv1J1pzlCFAfXYn0DNqI"></script>
 </div>
 <br> -->
