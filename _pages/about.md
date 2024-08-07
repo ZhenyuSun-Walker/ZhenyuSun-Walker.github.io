@@ -38,6 +38,7 @@ e google scholar badge <a href='https://scholar.google.com/citations?user=ADd-qV
 - *2023.09*: &nbsp;🎉🎉 Join [Prof. Qi Liu](https://drliuqi.github.io/)’s Laboratory at South China University of Technology！
 - *2023.09*: &nbsp;🎉🎉 Won the Third-Class South China University of Technology Scholarship.
 
+
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024 Under Review</div><img src='/images/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,8 +69,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 🩴 My Interesting Life
-<!DOCTYPE html>
+# 🩴 My Life
 <html lang="en">
 <head>
 <meta charset="UTF-8">
