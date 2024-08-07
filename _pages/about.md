@@ -20,7 +20,7 @@ redirect_from:
 <br> 
 <strong> Welcome to Zhenyu's website! </strong>
 
-I'm Zhenyu Sun, and you can also call me Walker or Sorry. These two nicknames come from the names and songs of two musicians. I am now an undergraduate of South China University of Technology at Guangzhou, China, and [here](/Zhenyu_Sun_Personal_CV.pdf) is my CV for more specific information.
+I'm Zhenyu Sun, and you can also call me Walker or Sorry. These two nicknames come from the name and songof two musicians, Alan Waler and Justin Biber. I am now an undergraduate of South China University of Technology at Guangzhou, China, and [here](/Zhenyu_Sun_CV.pdf) is my CV for specific information.
 
 My research so far has concentrated on 3D-Reconstruction and Generative AI. As I deepen my exploration of Generative models and 3D Reconstruction methods, my goal is to achieve the alignment and interaction between textual information and 3D scene presentation, and to establish a strong mapping between the two on LLM (Large Language Models), providing the cornerstone of Platonic cognition for strong artificial intelligence.
 
@@ -43,14 +43,15 @@ My research so far has concentrated on 3D-Reconstruction and Generative AI. As I
 [Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering](https://arxiv.org/pdf/2405.06214)
 
 Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
-- We propose to build a ranker that generates ranking scores based on a set of criteria from various perspectives. These criteria are intended to direct each perspective in providing a distinct yet synergistic evaluation.
+-  We propose Aerial-NeRF with three innovative modifications for jointly adapting NeRF in large-scaleaerial rendering. Our model allows us to perform rendering over 4 times
+   as fast as compared to multiple competitors at this point.
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.9* Third-Class South China University of Technology Scholarship. 
+- *2024.05* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09* Third-Class South China University of Technology Scholarship. 
 
 # 📖 Educations
 - *2022.09 - present*, South China University of Technology, Undergraduate. 
