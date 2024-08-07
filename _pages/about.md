@@ -17,7 +17,6 @@ redirect_from:
 
 # ⌨️ About Me
 <span class='anchor' id='about-me'></span>
-<br> 
 <strong> Welcome to Zhenyu's website! </strong>
 
 I'm Zhenyu Sun, and you can also call me Walker or Sorry. These two nicknames come from the name and songof two musicians, Alan Waler and Justin Biber. I am now an undergraduate of South China University of Technology at Guangzhou, China, and [here](/Zhenyu_Sun_CV.pdf) is my CV for specific information.
