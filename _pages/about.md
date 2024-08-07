@@ -34,7 +34,7 @@ My research so far has concentrated on 3D-Reconstruction and Generative AI. As I
 - *2024.06*: &nbsp;🎉🎉 Get the National Second Prize of MathorCup Mathematical Application Challenge <span style="color:red;">(Top 5%)</span>!
 - *2023.12*: &nbsp;🎉🎉 Get the First Prize of National College Students’ Mathematics Competition Guangdong Division! 
 - *2023.12*: &nbsp;🎉🎉 Get the First Prize of Huawei ICT Competition Guangdong Division! 
-- *2023.09*: &nbsp;🎉🎉 Join [Prof. Qi Liu](https://drliuqi.github.io/))’s Laboratory at South China University of Technology！
+- *2023.09*: &nbsp;🎉🎉 Join [Prof. Qi Liu](https://drliuqi.github.io/)’s Laboratory at South China University of Technology！
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024 Under Review</div><img src='/images/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
