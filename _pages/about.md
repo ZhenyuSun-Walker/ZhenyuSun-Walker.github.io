@@ -207,15 +207,15 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
   <div class="container left">
     <div class="content">
       <h2>2023.02</h2>
-      <p>I cycled around Hainan Island in nine days, about 850 KM. <a href="https://www.bilibili.com/video/BV14e4y1P7o7/?vd_source=87867a0ba7d93f723755287cbc2e89fd" target="_blank">Watch the video</a></p>
-      <img src="images/cycle1.png" alt="Cycling around Hainan">
+      <!-- <p>I cycled around Hainan Island in nine days, about 850 KM. <a href="https://www.bilibili.com/video/BV14e4y1P7o7/?vd_source=87867a0ba7d93f723755287cbc2e89fd" target="_blank">Watch the video</a></p>
+      <img src="images/cycle1.png" alt="Cycling around Hainan"> -->
     </div>
   </div>
   <div class="container right">
     <div class="content">
       <h2>2022.10</h2>
-      <p>I starred in a drama, which received an overwhelming response and received reports from Guangdong Province.</p>
-      <img src="images/drama1.png" alt="Starring in a drama">
+      <!-- <p>I starred in a drama, which received an overwhelming response and received reports from Guangdong Province.</p>
+      <img src="images/drama1.png" alt="Starring in a drama"> -->
     </div>
   </div>
 </div>
