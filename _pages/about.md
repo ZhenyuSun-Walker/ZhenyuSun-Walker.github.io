@@ -77,6 +77,8 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 <style>
   body {
     font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
   }
   .timeline {
     position: relative;
@@ -87,7 +89,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
     content: '';
     position: absolute;
     width: 6px;
-    background-color: #ddd;
+    background-color: #FF9F55;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -149,8 +151,23 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
     background-color: white;
     position: relative;
     border-radius: 6px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
-  @media screen and (max-width: 600px) {
+  .content h2 {
+    font-size: 24px;
+    color: #FF9F55;
+  }
+  .content p {
+    font-size: 16px;
+    color: #333;
+  }
+  .content img {
+    margin-top: 10px;
+    border-radius: 4px;
+    width: 100%;
+    height: auto;
+  }
+  @media screen and (max-width: 768px) {
     .timeline::after {
       left: 31px;
     }
@@ -171,6 +188,15 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
     .right {
       left: 0%;
     }
+    .right::before {
+      left: 60px;
+    }
+    .content h2 {
+      font-size: 20px;
+    }
+    .content p {
+      font-size: 14px;
+    }
   }
 </style>
 </head>
@@ -182,14 +208,14 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
     <div class="content">
       <h2>2023.02</h2>
       <p>I cycled around Hainan Island in nine days, about 850 KM. <a href="https://www.bilibili.com/video/BV14e4y1P7o7/?vd_source=87867a0ba7d93f723755287cbc2e89fd" target="_blank">Watch the video</a></p>
-      <img src="images/cycle1.png" alt="Cycling around Hainan" width="100%">
+      <img src="images/cycle1.png" alt="Cycling around Hainan">
     </div>
   </div>
   <div class="container right">
     <div class="content">
       <h2>2022.10</h2>
       <p>I starred in a drama, which received an overwhelming response and received reports from Guangdong Province.</p>
-      <img src="images/drama1.png" alt="Starring in a drama" width="100%">
+      <img src="images/drama1.png" alt="Starring in a drama">
     </div>
   </div>
 </div>
