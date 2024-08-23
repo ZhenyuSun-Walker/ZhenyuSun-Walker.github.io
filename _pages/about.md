@@ -219,8 +219,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
         <img src="images/202401/001.png" alt="The journey of Shunde1">
         <img src="images/202401/002.png" alt="The journey of Shunde2">
         <img src="images/202401/003.png" alt="The journey of Shunde3">
-        <img src="images/202401/004.png" alt="The journey of Shunde4">
-      
+        <img src="images/202401/004.png" alt="The journey of Shunde4">     
     </div>
   </div>
 </div>
@@ -318,7 +317,7 @@ window.addEventListener('resize', calculateTotalWidth);
     animation: loadingAnimation 1s infinite;
 }
 
-@keyframes loadingAnimation {
+/* @keyframes loadingAnimation {
     0% { background-position: 100% 0; }
     100% { background-position: 0 0; }
 }
@@ -328,4 +327,4 @@ window.addEventListener('resize', calculateTotalWidth);
 <div style="width: 500px; height: 500px; margin: auto;"> <!-- 设置您想要的宽度和高度 -->
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UC6ibAca1Av5EPZP3WPd9Xzwv1J1pzlCFAfXYn0DNqI"></script>
 </div>
-<br>
+<br> */
