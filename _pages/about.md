@@ -69,35 +69,34 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 🩴 My Life
-# 🩴 My Interesting Life
 - *2024.04*, We came to the Xinhai Revolution Museum and the former site of the Whampoa Military Academy for research and study, and felt the feelings of the family and country in history！<br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
-    <img src="images/007.png" alt="Xinhai Revolution Museum">&nbsp;&nbsp;&nbsp;
-    <img src="images/008.png" alt="Former site of the Whampoa Military Academy">
+    <img src="images/007.png" alt="Xinhai Revolution Museum" width="330">&nbsp;&nbsp;&nbsp;
+    <img src="images/008.png" alt="Former site of the Whampoa Military Academy" width="330">
 </div>
 
 <br>
 
 - *2024.02*, We went to Shunde, Guangzhou for vacation and experienced the local culinary culture, including Shunde desserts and Shunde sashimi!<br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
-    <img src="images/202401/001.png" alt="The journey of Shunde1">&nbsp;&nbsp;&nbsp;
-    <img src="images/202401/002.png" alt="The journey of Shunde2">&nbsp;&nbsp;&nbsp;
-    <img src="images/202401/003.png" alt="The journey of Shunde3">&nbsp;&nbsp;&nbsp;
-    <img src="images/202401/004.png" alt="The journey of Shunde4">  
+    <img src="images/202401/000.jpg" alt="The journey of Shunde1" width="330">&nbsp;&nbsp;&nbsp;
+    <img src="images/202401/001.jpg" alt="The journey of Shunde2" width="330">&nbsp;&nbsp;&nbsp;
+    <img src="images/202401/002.jpg" alt="The journey of Shunde3">&nbsp;&nbsp;&nbsp;
+    <img src="images/202401/003.jpg" alt="The journey of Shunde4">  
 </div>
 <br>
 
-- **I like football and travelling, especially with my friends and girlfriend.**<br>
+- **My precious memory with company of my friends.**<br>
 <div id="slider" style="width: 900px; overflow: hidden; margin-left: 56px;">
     <div id="slider-inner">
-        <img src="images/1.png" alt="Image 1">
-        <img src="images/2.png" alt="Image 2">
-        <img src="images/3.png" alt="Image 3">
-        <img src="images/4.png" alt="Image 4">
-        <img src="images/5.png" alt="Image 5">
-        <img src="images/6.png" alt="Image 6">
-        <img src="images/7.png" alt="Image 7">
-        <img src="images/8.png" alt="Image 8">  
+        <img src="images/001.png" alt="Image 1">
+        <img src="images/002.png" alt="Image 2">
+        <img src="images/003.png" alt="Image 3">
+        <img src="images/004.png" alt="Image 4">
+        <img src="images/005.png" alt="Image 5">
+        <img src="images/006.png" alt="Image 6">
+        <img src="images/007.png" alt="Image 7">
+        <img src="images/008.png" alt="Image 8">  
     </div>
 </div>
 
