@@ -81,12 +81,12 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
     <img src="images/202401/000.jpg" alt="The journey of Shunde1" width="330">&nbsp;&nbsp;&nbsp;
     <img src="images/202401/001.jpg" alt="The journey of Shunde2" width="330">&nbsp;&nbsp;&nbsp;
-    <img src="images/202401/002.jpg" alt="The journey of Shunde3">&nbsp;&nbsp;&nbsp;
-    <img src="images/202401/003.jpg" alt="The journey of Shunde4">  
+    <img src="images/202401/002.jpg" alt="The journey of Shunde3" width="330">&nbsp;&nbsp;&nbsp;
+    <img src="images/202401/003.jpg" alt="The journey of Shunde4" width="330">  
 </div>
 <br>
 
-- **My precious memory with company of my friends.**<br>
+- **Precious memories with my friends.**<br>
 <div id="slider" style="width: 900px; overflow: hidden; margin-left: 56px;">
     <div id="slider-inner">
         <img src="images/001.png" alt="Image 1">
@@ -177,17 +177,17 @@ window.addEventListener('resize', calculateTotalWidth);
     animation: loadingAnimation 1s infinite;
 }
 
-@keyframes loadingAnimation {
+/* @keyframes loadingAnimation {
     0% { background-position: 100% 0; }
     100% { background-position: 0 0; }
 }
 </style>
 
-<!-- <br>
+<br>
 <div style="width: 500px; height: 500px; margin: auto;"> <!-- 设置您想要的宽度和高度 -->
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UC6ibAca1Av5EPZP3WPd9Xzwv1J1pzlCFAfXYn0DNqI"></script>
 </div>
-<br> -->
+<br> */
 
 
 
