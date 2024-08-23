@@ -71,18 +71,18 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 # 🩴 My Life
 - *2024.04*, We came to the Xinhai Revolution Museum and the former site of the Whampoa Military Academy for research and study, and felt the feelings of the family and country in history！<br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
-    <img src="images/007.png" alt="Xinhai Revolution Museum" width="330">&nbsp;&nbsp;&nbsp;
-    <img src="images/008.png" alt="Former site of the Whampoa Military Academy" width="330">
+    <img src="images/007.png" alt="Xinhai Revolution Museum" width="330" height="270">&nbsp;&nbsp;&nbsp;
+    <img src="images/008.png" alt="Former site of the Whampoa Military Academy" width="330" height="270">
 </div>
 
 <br>
 
 - *2024.02*, We went to Shunde, Guangzhou for vacation and experienced the local culinary culture, including Shunde desserts and Shunde sashimi!<br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
-    <img src="images/202401/000.jpg" alt="The journey of Shunde1" width="330">&nbsp;&nbsp;&nbsp;
-    <img src="images/202401/001.jpg" alt="The journey of Shunde2" width="330">&nbsp;&nbsp;&nbsp;
-    <img src="images/202401/002.jpg" alt="The journey of Shunde3" width="330">&nbsp;&nbsp;&nbsp;
-    <img src="images/202401/003.jpg" alt="The journey of Shunde4" width="330">  
+    <img src="images/202401/000.jpg" alt="The journey of Shunde1" width="330" height="270">&nbsp;&nbsp;&nbsp;
+    <img src="images/202401/001.jpg" alt="The journey of Shunde2" width="330" height="270">&nbsp;&nbsp;&nbsp;
+    <img src="images/202401/002.jpg" alt="The journey of Shunde3" width="330" height="270">&nbsp;&nbsp;&nbsp;
+    <img src="images/202401/003.jpg" alt="The journey of Shunde4" width="330" height="270">  
 </div>
 <br>
 
@@ -180,14 +180,14 @@ window.addEventListener('resize', calculateTotalWidth);
 /* @keyframes loadingAnimation {
     0% { background-position: 100% 0; }
     100% { background-position: 0 0; }
-}
-</style>
+} */
+<!-- </style>
 
 <br>
 <div style="width: 500px; height: 500px; margin: auto;"> <!-- 设置您想要的宽度和高度 -->
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UC6ibAca1Av5EPZP3WPd9Xzwv1J1pzlCFAfXYn0DNqI"></script>
 </div>
-<br> */
+<br> -->
 
 
 
