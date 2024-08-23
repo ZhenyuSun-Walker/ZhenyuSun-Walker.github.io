@@ -206,19 +206,21 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>2024.01</h2>
-      <p>We went to Shunde, Guangzhou for vacation and experienced the local culinary culture, including Shunde desserts and Shunde sashimi. 
-      <img src="202401/001.png" alt="The journey of Shunde1">
-      <img src="202401/002.png" alt="The journey of Shunde2">
-      <img src="202401/003.png" alt="The journey of Shunde3">
-      <img src="202401/004.png" alt="The journey of Shunde4">
+      <h2>2024.04</h2>
+        <p>We came to the Xinhai Revolution Museum and the former site of the Whampoa Military Academy for research and study, and felt the feelings of the family and country in history！</p>
+        <img src="images/007.png" alt="Xinhai Revolution Museum">
+        <img src="images/008.png" alt="former site of the Whampoa Military Academy">
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2022.10</h2>
-      <!-- <p>I starred in a drama, which received an overwhelming response and received reports from Guangdong Province.</p>
-      <img src="images/drama1.png" alt="Starring in a drama"> -->
+      <h2>2024.01</h2>
+        <p>We went to Shunde, Guangzhou for vacation and experienced the local culinary culture, including Shunde desserts and Shunde sashimi! 
+        <img src="images/202401/001.png" alt="The journey of Shunde1">
+        <img src="images/202401/002.png" alt="The journey of Shunde2">
+        <img src="images/202401/003.png" alt="The journey of Shunde3">
+        <img src="images/202401/004.png" alt="The journey of Shunde4">
+      
     </div>
   </div>
 </div>
