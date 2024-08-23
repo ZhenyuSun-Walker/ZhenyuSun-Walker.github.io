@@ -69,164 +69,25 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 🩴 My Life
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Interactive Timeline</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    padding: 20px;
-  }
-  .timeline {
-    position: relative;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  .timeline::after {
-    content: '';
-    position: absolute;
-    width: 6px;
-    background-color: #FF9F55;
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    margin-left: -3px;
-  }
-  .container {
-    padding: 10px 40px;
-    position: relative;
-    background-color: inherit;
-    width: 50%;
-  }
-  .container::after {
-    content: '';
-    position: absolute;
-    width: 25px;
-    height: 25px;
-    right: -17px;
-    background-color: white;
-    border: 4px solid #FF9F55;
-    top: 15px;
-    border-radius: 50%;
-    z-index: 1;
-  }
-  .left {
-    left: 0;
-  }
-  .right {
-    left: 50%;
-  }
-  .left::before {
-    content: " ";
-    height: 0;
-    position: absolute;
-    top: 22px;
-    width: 0;
-    z-index: 1;
-    right: 30px;
-    border: medium solid white;
-    border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent white;
-  }
-  .right::before {
-    content: " ";
-    height: 0;
-    position: absolute;
-    top: 22px;
-    width: 0;
-    z-index: 1;
-    left: 30px;
-    border: medium solid white;
-    border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
-  }
-  .right::after {
-    left: -16px;
-  }
-  .content {
-    padding: 20px 30px;
-    background-color: white;
-    position: relative;
-    border-radius: 6px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  }
-  .content h2 {
-    font-size: 24px;
-    color: #FF9F55;
-  }
-  .content p {
-    font-size: 16px;
-    color: #333;
-  }
-  .content img {
-    margin-top: 10px;
-    border-radius: 4px;
-    width: 100%;
-    height: auto;
-  }
-  @media screen and (max-width: 768px) {
-    .timeline::after {
-      left: 31px;
-    }
-    .container {
-      width: 100%;
-      padding-left: 70px;
-      padding-right: 25px;
-    }
-    .container::before {
-      left: 60px;
-      border: medium solid white;
-      border-width: 10px 10px 10px 0;
-      border-color: transparent white transparent transparent;
-    }
-    .left::after, .right::after {
-      left: 15px;
-    }
-    .right {
-      left: 0%;
-    }
-    .right::before {
-      left: 60px;
-    }
-    .content h2 {
-      font-size: 20px;
-    }
-    .content p {
-      font-size: 14px;
-    }
-  }
-</style>
-</head>
-<body>
-
-<h2>Interactive Timeline</h2>
-<div class="timeline">
-  <div class="container left">
-    <div class="content">
-      <h2>2024.04</h2>
-        <p>We came to the Xinhai Revolution Museum and the former site of the Whampoa Military Academy for research and study, and felt the feelings of the family and country in history！</p>
-        <img src="images/007.png" alt="Xinhai Revolution Museum">
-        <img src="images/008.png" alt="former site of the Whampoa Military Academy">
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2024.01</h2>
-        <p>We went to Shunde, Guangzhou for vacation and experienced the local culinary culture, including Shunde desserts and Shunde sashimi! 
-        <img src="images/202401/001.png" alt="The journey of Shunde1">
-        <img src="images/202401/002.png" alt="The journey of Shunde2">
-        <img src="images/202401/003.png" alt="The journey of Shunde3">
-        <img src="images/202401/004.png" alt="The journey of Shunde4">     
-    </div>
-  </div>
+# 🩴 My Interesting Life
+- *2024.04*, We came to the Xinhai Revolution Museum and the former site of the Whampoa Military Academy for research and study, and felt the feelings of the family and country in history！<br>
+<div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
+    <img src="images/007.png" alt="Xinhai Revolution Museum">&nbsp;&nbsp;&nbsp;
+    <img src="images/008.png" alt="Former site of the Whampoa Military Academy">
 </div>
 
-</body>
-</html>
+<br>
 
+- *2024.02*, We went to Shunde, Guangzhou for vacation and experienced the local culinary culture, including Shunde desserts and Shunde sashimi!<br>
+<div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
+    <img src="images/202401/001.png" alt="The journey of Shunde1">&nbsp;&nbsp;&nbsp;
+    <img src="images/202401/002.png" alt="The journey of Shunde2">&nbsp;&nbsp;&nbsp;
+    <img src="images/202401/003.png" alt="The journey of Shunde3">&nbsp;&nbsp;&nbsp;
+    <img src="images/202401/004.png" alt="The journey of Shunde4">  
+</div>
+<br>
+
+- **I like football and travelling, especially with my friends and girlfriend.**<br>
 <div id="slider" style="width: 900px; overflow: hidden; margin-left: 56px;">
     <div id="slider-inner">
         <img src="images/1.png" alt="Image 1">
@@ -236,7 +97,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
         <img src="images/5.png" alt="Image 5">
         <img src="images/6.png" alt="Image 6">
         <img src="images/7.png" alt="Image 7">
-        <img src="images/8.png" alt="Image 8">
+        <img src="images/8.png" alt="Image 8">  
     </div>
 </div>
 
@@ -317,14 +178,71 @@ window.addEventListener('resize', calculateTotalWidth);
     animation: loadingAnimation 1s infinite;
 }
 
-/* @keyframes loadingAnimation {
+@keyframes loadingAnimation {
     0% { background-position: 100% 0; }
     100% { background-position: 0 0; }
 }
 </style>
 
-<br>
+<!-- <br>
 <div style="width: 500px; height: 500px; margin: auto;"> <!-- 设置您想要的宽度和高度 -->
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UC6ibAca1Av5EPZP3WPd9Xzwv1J1pzlCFAfXYn0DNqI"></script>
 </div>
-<br> */
+<br> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
