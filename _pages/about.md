@@ -121,12 +121,14 @@ I am profoundly grateful beyond words！<br>
 <div id="slider" style="width: 900px; overflow: hidden; margin-left: 56px;">
     <div id="slider-inner">
         <img src="images/001.png" alt="Image 1">
-        <img src="images/002.png" alt="Image 2">
-        <img src="images/003.png" alt="Image 3">
+        <img src="images/westlake001.jpg" alt="Image 2">
+        <img src="images/003.jpg" alt="Image 3">
         <img src="images/004.png" alt="Image 4">
         <img src="images/005.png" alt="Image 5">
         <img src="images/006.png" alt="Image 6">
-        <img src="images/007.png" alt="Image 7">
+        <img src="images/skiing001.jpg" alt="Image 7">
+        <img src="images/skiing002.jpg" alt="Image 8">
+        <img src="images/westlake002.jpg" alt="Image 9">
     </div>
 </div>
 
