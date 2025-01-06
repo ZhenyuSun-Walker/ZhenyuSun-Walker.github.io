@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <strong> Welcome to Zhenyu's website! </strong>
 
-My name is **Zhenyu Sun**, where *Zhenyu* embodies my parents' great aspiration for me to revitalize the universe. The nickname *Walker* is inspired by Sun Wukong from Journey to the West, who is also known by the alias **孙行者**, meaning **the Walker**; thus, I go by *Walker Sun* in English. I am now an undergraduate of South China University of Technology at Guangzhou, China, and [here is my CV](/Zhenyu_Sun_CV.pdf) for specific information.
+My name is **Zhenyu Sun**, where **Zhenyu** embodies my parents' great aspiration for me to revitalize the universe. The nickname **Walker** is inspired by **Sun Wukong** from **Journey to the West**, who is also known by the alias **孙行者**, meaning **Walker**; thus, I go by *Walker Sun* in English. I am now an undergraduate of South China University of Technology at Guangzhou, China, and [here is my CV](/Zhenyu_Sun_CV.pdf) for specific information.
 
 My research so far has concentrated on 3D-Reconstruction and Generative AI. As I deepen my exploration of Generative models and 3D Reconstruction methods, my goal is to achieve the alignment and interaction between natural language information and 3D visual presentation, and to establish a strong mapping between the two on LLM (Large Language Models), providing the cornerstone of Platonic cognition for advanced artificial intelligence.
 
@@ -30,8 +30,8 @@ My research so far has concentrated on 3D-Reconstruction and Generative AI. As I
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Our work [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1) has been accepted by **AAAI 2025**!
 <!-- - *2024.11*: &nbsp;🎉🎉 -->
-- *2024.10*: &nbsp;🎉🎉 I have received **First-Class South China University of Technology Scholarship** (¥20,000, <span style="color:red;">Top 1%</span>) for the academic year 2023-2024.
-- *2024.09*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">Top 0.4% national wide</span>) for the academic year 2023-2024, with the rank **1/76**.
+- *2024.10*: &nbsp;🎉🎉 I have received **First-Class South China University of Technology Scholarship** (¥20,000, <span style="color:red;">**Top 1%**</span>) for the academic year 2023-2024.
+- *2024.09*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">**Top 0.4%, national wide**</span>) for the academic year 2023-2024, with the rank **1/76**.
 - *2024.08*: &nbsp;🎉🎉 I am going to visiting _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) at [Westlake University](https://www.westlake.edu.cn/)!
 - *2024.06*: &nbsp;🎉🎉 I have harvested the **National College Student Innovation and Entrepreneurship Training Program <span style="color:red;">Outstanding Project Completion</span>**! 
 - *2024.06*: &nbsp;🎉🎉 I have received the Third-class Academic Innovation Award, Future Technology Taihu Innovation Award by Wuxi government. 
@@ -67,7 +67,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 </div>
 
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2024.10* **First-Class South China University of Technology Scholarship**, for the academic year 2023-2024.
 - *2024.09* **National Scholarship**, for the academic year 2023-2024.
 - *2024.06* **Third-class Academic Innovation Award**, Future Technology Taihu Innovation Award by Wuxi government. 
@@ -84,25 +84,31 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 
 
 # 💻 Internships
-- *2024.08 - 2024.12* I join the _ENCODE Lab_ of **Prof. Huan Wang** as a visiting student, at **Westlake University**](https://www.westlake.edu.cn/)**, China.
+- *2024.07 - 2024.11* I visit the _**ENCODE Lab**_ of **Prof. Huan Wang**, at [**Westlake University**](https://www.westlake.edu.cn/), China. From July to September, I participated in person, and subsequently, I continued to collaborate remotely.
 
 # 🩴 My Life
-
-<!-- - *2024.07*, I came to WestLake Uni！<br>
+- *2025.01*, I went to **Guangzhou Huadu Sunac** with my friends for **skiing**! <br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
-    <img src="images/007.png" alt="Xinhai Revolution Museum" width="330" height="270">&nbsp;&nbsp;&nbsp;
-    <img src="images/008.png" alt="Former site of the Whampoa Military Academy" width="330" height="270">
-</div> -->
+    <img src="images/skiing001.jpg" alt="Westlake001" width="330" height="270">&nbsp;&nbsp;&nbsp;
+    <img src="images/skiing002.jpg" alt="Westlake002" width="330" height="270">
+</div>
 
-- *2024.04*, I came to the Xinhai Revolution Museum and the former site of the Whampoa Military Academy for research and study, and felt the feelings of the family and country in history！<br>
+- *2024.07*, I came to **WestLake University**！It is a privilege to join **ENCODE Lab** of **Prof. Huan Wang**, where I have gained invaluable insights from Professor Wang and the lab members in both academic research and interpersonal skills.
+I am profoundly grateful beyond words！<br>
+<div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
+    <img src="images/westlake001.jpg" alt="Westlake001" width="330" height="270">&nbsp;&nbsp;&nbsp;
+    <img src="images/westlake002.jpg" alt="Westlake002" width="330" height="270">
+</div>
+
+<!-- - *2024.04*, I came to the **Xinhai Revolution Museum** and the **Former Site of the Whampoa Military Academy** for research and study, and felt the feelings of the family and country in history！<br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
     <img src="images/008.png" alt="Xinhai Revolution Museum" width="330" height="270">&nbsp;&nbsp;&nbsp;
     <img src="images/007.png" alt="Former site of the Whampoa Military Academy" width="330" height="270">
 </div>
 
-<br>
+<br> -->
 
-- *2024.02*, I went to Shunde, Guangzhou for vacation and experienced the local culinary culture, including Shunde desserts and Shunde sashimi!<br>
+- *2024.02*, I went to **Shunde, Guangzhou** for vacation and experienced the local culinary culture, including **Shunde desserts** and **Shunde sashimi**!<br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
     <img src="images/202401/000.jpg" alt="The journey of Shunde1" width="330" height="270">&nbsp;&nbsp;&nbsp;
     <img src="images/202401/001.jpg" alt="The journey of Shunde2" width="330" height="270">&nbsp;&nbsp;&nbsp;
@@ -111,7 +117,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 </div>
 <br>
 
-- **Precious experiences and memories.**<br>
+- **Precious Experiences and Memories.**<br>
 <div id="slider" style="width: 900px; overflow: hidden; margin-left: 56px;">
     <div id="slider-inner">
         <img src="images/001.png" alt="Image 1">
