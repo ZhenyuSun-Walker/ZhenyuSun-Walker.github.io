@@ -19,27 +19,43 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <strong> Welcome to Zhenyu's website! </strong>
 
-I'm Zhenyu Sun, and you can also call me Walker or Sorry. These two nicknames come from the name and songof two musicians, Alan Waler and Justin Biber. I am now an undergraduate of South China University of Technology at Guangzhou, China, and [here](/Zhenyu_Sun_CV.pdf) is my CV for specific information.
+My name is **Zhenyu Sun**, where *Zhenyu* embodies my parents' great aspiration for me to revitalize the universe. The nickname *Walker* is inspired by Sun Wukong from Journey to the West, who is also known by the alias **孙行者**, meaning **the Walker**; thus, I go by *Walker Sun* in English. I am now an undergraduate of South China University of Technology at Guangzhou, China, and [here is my CV](/Zhenyu_Sun_CV.pdf) for specific information.
 
-My research so far has concentrated on 3D-Reconstruction and Generative AI. As I deepen my exploration of Generative models and 3D Reconstruction methods, my goal is to achieve the alignment and interaction between textual information and 3D scene presentation, and to establish a strong mapping between the two on LLM (Large Language Models), providing the cornerstone of Platonic cognition for advanced artificial intelligence.
+My research so far has concentrated on 3D-Reconstruction and Generative AI. As I deepen my exploration of Generative models and 3D Reconstruction methods, my goal is to achieve the alignment and interaction between natural language information and 3D visual presentation, and to establish a strong mapping between the two on LLM (Large Language Models), providing the cornerstone of Platonic cognition for advanced artificial intelligence.
 
 <strong><span style="color:red; font-size:larger;">Sincerely looking for 26 fall Ph.D position!</span></strong>
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 I'm going to visiting [Prof. Huan Wang](https://huanwang.tech/) at Westlake University!
-- *2024.06*: &nbsp;🎉🎉 Harvest the National College Student Innovation and Entrepreneurship Training Program Outstanding Project Completion! 
-- *2024.06*: &nbsp;🎉🎉 Third-class Academic Innovation Award, Future Technology Taihu Innovation Award by Wuxi government. 
-- *2024.06*: &nbsp;🎉🎉 Get the National Second Prize of MathorCup Mathematical Application Challenge <span style="color:red;">(Top 5%)</span>!
-- *2023.12*: &nbsp;🎉🎉 Get the First Prize of National College Students’ Mathematics Competition Guangdong Division! 
-- *2023.12*: &nbsp;🎉🎉 Get the First Prize of Huawei ICT Competition Guangdong Division! 
-- *2023.09*: &nbsp;🎉🎉 Join [Prof. Qi Liu](https://drliuqi.github.io/)’s Laboratory at South China University of Technology！
-- *2023.09*: &nbsp;🎉🎉 Won the Third-Class South China University of Technology Scholarship.
+- *2024.12*: &nbsp;🎉🎉 Our work [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1) has been accepted by **AAAI 2025**!
+<!-- - *2024.11*: &nbsp;🎉🎉 -->
+- *2024.10*: &nbsp;🎉🎉 I have received **First-Class South China University of Technology Scholarship** (¥20,000, <span style="color:red;">0.4%</span> national wide) for the academic year 2023-2024.
+- *2024.09*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">0.4%</span> national wide) for the academic year 2023-2024, with the rank **1/76**.
+- *2024.08*: &nbsp;🎉🎉 I am going to visiting _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) at [Westlake University](https://www.westlake.edu.cn/)!
+- *2024.06*: &nbsp;🎉🎉 I have harvested the **National College Student Innovation and Entrepreneurship Training Program <span style="color:red;">Outstanding Project Completion</span>**! 
+- *2024.06*: &nbsp;🎉🎉 I have received the Third-class Academic Innovation Award, Future Technology Taihu Innovation Award by Wuxi government. 
+- *2024.06*: &nbsp;🎉🎉 I have gotten the National Second Prize of MathorCup Mathematical Application Challenge <span style="color:red;">(Top 5%)</span>!
+- *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of National College Students’ Mathematics Competition Guangdong Division**! 
+- *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of Huawei ICT Competition Guangdong Division**! 
+- *2023.10*: &nbsp;🎉🎉 I am going to join [Prof. Qi Liu](https://drliuqi.github.io/) Laboratory at South China University of Technology！
+- *2023.09*: &nbsp;🎉🎉 I have received the **Merit Student Honors, South China University of Technology**.
+- *2022.09*: &nbsp;🎉🎉 I have been admitted to [South China University of Technology](https://www.scut.edu.cn/)!
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024 Under Review</div><img src='/images/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/Toy-GS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1)
+
+Xiaohan Zhang, **Zhenyu Sun**, Yukui Qiu, Junyan Su, Qi Liu\*
+-  We propose Toy-GS, a novel method that adaptively assembles local Gaussians to enhance rendering quality and reduce GPU memory usage for large-scale free camera trajectorie.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='/images/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering](https://arxiv.org/pdf/2405.06214)
@@ -52,9 +68,11 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 
 
 # 🎖 Honors and Awards
-- *2024.06* Third-class Academic Innovation Award, Future Technology Taihu Innovation Award by Wuxi government. 
-- *2023.10* Merit Student Honors, South China University of Technology. 
-- *2023.09* Third-Class South China University of Technology Scholarship. 
+- *2024.10* **First-Class South China University of Technology Scholarship**, for the academic year 2023-2024.
+- *2024.09* **National Scholarship**, for the academic year 2023-2024.
+- *2024.06* **Third-class Academic Innovation Award**, Future Technology Taihu Innovation Award by Wuxi government. 
+- *2023.10* **Merit Student Honors**, South China University of Technology, for the academic year 2022-2023. 
+- *2023.09* **Third-Class South China University of Technology Scholarship**, for the academic year 2022-2023. 
 
 # 📖 Educations
 - *2022.09 - present*, South China University of Technology, Undergraduate. 
@@ -65,14 +83,21 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 
 
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2024.08 - 2024.12* I join the _ENCODE Lab_ of **Prof. Huan Wang** as a visiting student, at **Westlake University**](https://www.westlake.edu.cn/)**, China.
 
 # 🩴 My Life
-- *2024.04*, I came to the Xinhai Revolution Museum and the former site of the Whampoa Military Academy for research and study, and felt the feelings of the family and country in history！<br>
+
+<!-- - *2024.07*, I came to WestLake Uni！<br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
     <img src="images/007.png" alt="Xinhai Revolution Museum" width="330" height="270">&nbsp;&nbsp;&nbsp;
     <img src="images/008.png" alt="Former site of the Whampoa Military Academy" width="330" height="270">
+</div> -->
+
+- *2024.04*, I came to the Xinhai Revolution Museum and the former site of the Whampoa Military Academy for research and study, and felt the feelings of the family and country in history！<br>
+<div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
+    <img src="images/008.png" alt="Xinhai Revolution Museum" width="330" height="270">&nbsp;&nbsp;&nbsp;
+    <img src="images/007.png" alt="Former site of the Whampoa Military Academy" width="330" height="270">
 </div>
 
 <br>
@@ -86,7 +111,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 </div>
 <br>
 
-- **Precious memories with my friends.**<br>
+- **Precious experiences and memories.**<br>
 <div id="slider" style="width: 900px; overflow: hidden; margin-left: 56px;">
     <div id="slider-inner">
         <img src="images/001.png" alt="Image 1">
