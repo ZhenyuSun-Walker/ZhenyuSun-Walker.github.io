@@ -30,8 +30,8 @@ My research so far has concentrated on 3D-Reconstruction and Generative AI. As I
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Our work [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1) has been accepted by **AAAI 2025**!
 <!-- - *2024.11*: &nbsp;🎉🎉 -->
-- *2024.10*: &nbsp;🎉🎉 I have received **First-Class South China University of Technology Scholarship** (¥20,000, <span style="color:red;">0.4%</span> national wide) for the academic year 2023-2024.
-- *2024.09*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">0.4%</span> national wide) for the academic year 2023-2024, with the rank **1/76**.
+- *2024.10*: &nbsp;🎉🎉 I have received **First-Class South China University of Technology Scholarship** (¥20,000, <span style="color:red;">Top 1%</span>) for the academic year 2023-2024.
+- *2024.09*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">Top 0.4% national wide</span>) for the academic year 2023-2024, with the rank **1/76**.
 - *2024.08*: &nbsp;🎉🎉 I am going to visiting _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) at [Westlake University](https://www.westlake.edu.cn/)!
 - *2024.06*: &nbsp;🎉🎉 I have harvested the **National College Student Innovation and Entrepreneurship Training Program <span style="color:red;">Outstanding Project Completion</span>**! 
 - *2024.06*: &nbsp;🎉🎉 I have received the Third-class Academic Innovation Award, Future Technology Taihu Innovation Award by Wuxi government. 
