@@ -55,7 +55,7 @@ Xiaohan Zhang, **Zhenyu Sun**, Yukui Qiu, Junyan Su, Qi Liu\*
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='/images/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='/images/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering](https://arxiv.org/pdf/2405.06214)
@@ -93,7 +93,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
     <img src="images/skiing002.jpg" alt="Westlake002" width="330" height="270">
 </div>
 
-- *2024.07*, I came to **WestLake University**！It is a privilege to join **ENCODE Lab** of **Prof. Huan Wang**, where I have gained invaluable insights from Professor Wang and the lab members in both academic research and interpersonal skills.
+- *2024.07*, I came to **Westlake University**！It is a privilege to join **ENCODE Lab** of **Prof. Huan Wang**, where I have gained invaluable insights from Professor Wang and the lab members in both academic research and interpersonal skills.
 I am profoundly grateful beyond words！<br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
     <img src="images/westlake001.jpg" alt="Westlake001" width="330" height="270">&nbsp;&nbsp;&nbsp;
