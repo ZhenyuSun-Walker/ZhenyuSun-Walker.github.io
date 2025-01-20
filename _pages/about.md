@@ -75,7 +75,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 - *2023.09* **Third-Class South China University of Technology Scholarship**, for the academic year 2022-2023. 
 
 # 📖 Educations
-- *2022.09 - present*, South China University of Technology, Undergraduate. 
+- *2022.09 - present*, [South China University of Technology](https://www.scut.edu.cn/), Undergraduate. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -84,7 +84,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 
 
 # 💻 Internships
-- *2024.07 - 2024.11* I visit the _**ENCODE Lab**_ of **Prof. Huan Wang**, at [**Westlake University**](https://www.westlake.edu.cn/), China. From July to September, I participated in person, and subsequently, I continued to collaborate remotely.
+- *2024.07 - 2024.11* I visit the _**ENCODE Lab**_ of **Prof. Huan Wang**, at [Westlake University](https://www.westlake.edu.cn/), China. From July to September, I participated in person, and subsequently, I continued to collaborate remotely.
 
 # 🩴 My Life
 - *2025.01*, I went to **Guangzhou Huadu Sunac** with my friends for **skiing**! <br>
