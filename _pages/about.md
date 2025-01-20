@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <strong> Welcome to Zhenyu's website! </strong>
 
-My name is **Zhenyu Sun**, where **Zhenyu** embodies my parents' great aspiration for me to revitalize the universe. The nickname **Walker** is inspired by **Sun Wukong** from **Journey to the West**, who is also known by the alias **孙行者**, meaning **Walker**; thus, I go by *Walker Sun* in English. I am now an undergraduate of South China University of Technology at Guangzhou, China, and [here is my CV](/Zhenyu_Sun_CV.pdf) for specific information.
+My name is **Zhenyu Sun**, where **Zhenyu** embodies my parents' great aspiration for me to revitalize the universe. The nickname **Walker** is inspired by **Sun Wukong** from **Journey to the West**, who is also known by the alias **孙行者**, meaning **Walker**; thus, I go by *Walker Sun* in English. I am now an undergraduate of South China University of Technology at Guangzhou, China, and [here is my CV](/ZhenyuSun_CV.pdf) for specific information.
 
 My research so far has concentrated on 3D-Reconstruction and Generative AI. As I deepen my exploration of Generative models and 3D Reconstruction methods, my goal is to achieve the alignment and interaction between natural language information and 3D visual presentation, and to establish a strong mapping between the two on LLM (Large Language Models), providing the cornerstone of Platonic cognition for advanced artificial intelligence.
 
