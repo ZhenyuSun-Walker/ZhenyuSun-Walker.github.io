@@ -217,7 +217,7 @@ window.addEventListener('resize', calculateTotalWidth);
 
 <!-- Globe Widget -->
 <br>
-<div style="width: 600px; height: 500px; margin: auto;"> 
+<div style="width: 500px; height: 500px; margin: auto;"> 
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Cl6nCOwEKjyf4Du8XRwYJPZeD-QM6VPN5tFwyzzHDUk"></script>
 </div>
 <br>
