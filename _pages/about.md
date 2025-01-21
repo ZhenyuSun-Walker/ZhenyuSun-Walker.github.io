@@ -216,20 +216,20 @@ window.addEventListener('resize', calculateTotalWidth);
 </style>
 
 <!-- Globe Widget -->
-<!-- <br>
-<div style="width: 500px; height: 500px; margin: auto;"> 
+<br>
+<div style="width: 600px; height: 600px; margin: auto;"> 
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Cl6nCOwEKjyf4Du8XRwYJPZeD-QM6VPN5tFwyzzHDUk"></script>
 </div>
-<br> -->
+<br>
 
 
 <!-- Map Widget -->
-<br>
+<!-- <br>
 <div style="width: 2000px; height: 2000px; margin: auto;"> 
   <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Cl6nCOwEKjyf4Du8XRwYJPZeD-QM6VPN5tFwyzzHDUk"></script> -->
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Cl6nCOwEKjyf4Du8XRwYJPZeD-QM6VPN5tFwyzzHDUk&cl=ffffff&w=a"></script>
 </div>
-<br>
+<br> -->
 
 
 
