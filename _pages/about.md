@@ -50,7 +50,7 @@ My research so far has concentrated on 3D-Reconstruction and Generative AI. As I
 [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1)
 
 Xiaohan Zhang, **Zhenyu Sun**, Yukui Qiu, Junyan Su, Qi Liu\*
--  We propose Toy-GS, a novel method that adaptively assembles local Gaussians to enhance rendering quality and reduce GPU memory usage for large-scale free camera trajectorie.
+-  We propose Toy-GS, a novel method that adaptively assembles local Gaussians to enhance rendering quality and reduce GPU memory usage for large-scale free camera trajectories.
 </div>
 </div>
 
@@ -61,8 +61,7 @@ Xiaohan Zhang, **Zhenyu Sun**, Yukui Qiu, Junyan Su, Qi Liu\*
 [Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering](https://arxiv.org/pdf/2405.06214)
 
 Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
--  We propose Aerial-NeRF with three innovative modifications for jointly adapting NeRF in large-scaleaerial rendering. Our model allows us to perform rendering over 4 times
-   as fast as compared to multiple competitors at this point.
+-  We propose Aerial-NeRF with three innovative modifications for jointly adapting NeRF in large-scale aerial rendering. Our model allows us to perform rendering over 4 times as fast as compared to multiple competitors.
 </div>
 </div>
 
