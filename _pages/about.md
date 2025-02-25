@@ -50,8 +50,7 @@ My research so far has concentrated on 3D-Reconstruction and Generative AI. As I
 SGDreamer: Scene Harmonic Gaussian-based Dreamer for Domain-Free Text-to-3D Scene Generation with Peripheral 360-Degree Views
 
 **Zhenyu Sun**, Xiaohan Zhang, Qi Liu, Huan Wang\*
--  We propose Toy-GS,  new framework for generating harmonious and domain-free 3D scenes from text. Our method surpasses previous counterparts in terms of
-text-scene alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
+-  We propose Toy-GS,  new framework for generating harmonious and domain-free 3D scenes from text. Our method surpasses previous counterparts in terms of text-scene alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
 </div>
 </div>
 
