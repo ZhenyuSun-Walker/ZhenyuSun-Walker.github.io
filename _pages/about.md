@@ -44,7 +44,7 @@ My research so far has concentrated on 3D-Reconstruction and Generative AI. As I
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/Publication/SGDreamer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (under reivew)</div><img src='/images/Publication/SGDreamer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SGDreamer: Scene Harmonic Gaussian-based Dreamer for Domain-Free Text-to-3D Scene Generation with Peripheral 360-Degree Views
