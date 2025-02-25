@@ -44,7 +44,18 @@ My research so far has concentrated on 3D-Reconstruction and Generative AI. As I
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/Toy-GS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/Publication/SGDreamer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SGDreamer: Scene Harmonic Gaussian-based Dreamer for Domain-Free Text-to-3D Scene Generation with Peripheral 360-Degree Views
+
+**Zhenyu Sun**, Xiaohan Zhang, Qi Liu, Huan Wang\*
+-  We propose Toy-GS,  new framework for generating harmonious and domain-free 3D scenes from text. Our method surpasses previous counterparts in terms of
+text-scene alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/Publication/Toy-GS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1)
@@ -55,7 +66,7 @@ Xiaohan Zhang, **Zhenyu Sun**, Yukui Qiu, Junyan Su, Qi Liu\*
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='/images/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='/images/Publication/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering](https://arxiv.org/pdf/2405.06214)
