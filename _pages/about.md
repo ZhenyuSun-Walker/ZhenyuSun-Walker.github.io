@@ -44,13 +44,13 @@ My research so far has concentrated on 3D-Reconstruction and Generative AI. As I
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (under reivew)</div><img src='/images/Publication/SGDreamer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (under reivew)</div><img src='/images/Publication/NGGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SGDreamer: Scene Harmonic Gaussian-based Dreamer for Domain-Free Text-to-3D Scene Generation with Peripheral 360-Degree Views
+NGGS: Neural-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation
 
 **Zhenyu Sun**, Xiaohan Zhang, Qi Liu, Huan Wang\*
--  We propose Toy-GS,  new framework for generating harmonious and domain-free 3D scenes from text. Our method surpasses previous counterparts in terms of text-scene alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
+-  We propose NGGS,  a new framework for ego-centric 3D scene generation from textual description. With the novel insight in MV-LDM and 3D Gaussian optimization, our method surpasses previous counterparts in terms of semantic alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
 </div>
 </div>
 
