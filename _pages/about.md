@@ -93,7 +93,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 
 
 # 💻 Internships
-- *2024.07 - 2024.11* I visit the _**ENCODE Lab**_ of **Prof. Huan Wang**, at [Westlake University](https://www.westlake.edu.cn/), China. From July to September, I participated in person, and subsequently, I continued to collaborate remotely.
+- *2024.07 - 2025.05* I visit the _**ENCODE Lab**_ of **Prof. Huan Wang**, at [Westlake University](https://www.westlake.edu.cn/), China. From July to September, I participated in person, and subsequently, I continued to collaborate remotely.
 
 # 🩴 My Life
 - *2025.01*, I went to **Guangzhou Huadu Sunac** with my friends for **skiing**! <br>
