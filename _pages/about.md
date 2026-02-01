@@ -52,10 +52,10 @@ NGGS: Neural-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Gen
 **Zhenyu Sun**, Xiaohan Zhang, Qi Liu, Huan Wang\*
 -  We propose NGGS,  a new framework for ego-centric 3D scene generation from textual description. With the novel insight in MV-LDM and 3D Gaussian optimization, our method surpasses previous counterparts in terms of semantic alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/Publication/Toy-GS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box-text' markdown="1">
 
 [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1)
 
