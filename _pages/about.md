@@ -44,7 +44,7 @@ My research so far has concentrated on 3D-Reconstruction and Generative AI. As I
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (under reivew)</div><img src='/images/Publication/NGGS.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (under reivew)</div><img src='/images/Publication/NGGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 NGGS: Neural-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation
@@ -55,7 +55,7 @@ NGGS: Neural-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Gen
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/Publication/Toy-GS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
 [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1)
 
