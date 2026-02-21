@@ -19,28 +19,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <strong> Welcome to Zhenyu's website! </strong>
 
-My name is **Zhenyu Sun**, where **Zhenyu** embodies my parents' great aspiration for me to revitalize the universe. The nickname **Walker** is inspired by **Sun Wukong** from **Journey to the West**, who is also known by the alias **孙行者**, meaning **Walker**; thus, I go by *Walker Sun* in English. I am now an undergraduate of South China University of Technology at Guangzhou, China, and [here is my CV](/ZhenyuSun_CV.pdf) for specific information.
+I am **Zhenyu Sun**, currently an undergraduate of SCUT at Guangzhou, China, and [here is my CV](/ZhenyuSun_CV.pdf) for specific information. My research so far has concentrated on Next-Generation 3DV, aiming at exploring modern 3D/4D Foundation Architecture, while preserving  
 
-My research so far has concentrated on 3D-Reconstruction and Generative AI. As I deepen my exploration of Generative models and 3D Reconstruction methods, my goal is to achieve the alignment and interaction between natural language information and 3D visual presentation, and to establish a strong mapping between the two on LLM (Large Language Models), providing the cornerstone of Platonic cognition for advanced artificial intelligence.
+<!-- <strong><span style="color:red; font-size:larger;">Sincerely looking for 26 fall Ph.D position!</span></strong> -->
 
-<strong><span style="color:red; font-size:larger;">Sincerely looking for 26 fall Ph.D position!</span></strong>
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-
-# 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our work [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1) has been accepted by **AAAI 2025**!
-<!-- - *2024.11*: &nbsp;🎉🎉 -->
-- *2024.10*: &nbsp;🎉🎉 I have received **First-Class South China University of Technology Scholarship** (¥30,000, <span style="color:red;">**Top 1%**</span>) for the academic year 2023-2024.
-- *2024.09*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">**Top 0.4%, national wide**</span>) for the academic year 2023-2024, with the rank **1/76**.
-- *2024.08*: &nbsp;🎉🎉 I am going to visiting _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) at [Westlake University](https://www.westlake.edu.cn/)!
-- *2024.06*: &nbsp;🎉🎉 I have harvested the **National College Student Innovation and Entrepreneurship Training Program <span style="color:red;">Outstanding Project Completion</span>**! 
-- *2024.06*: &nbsp;🎉🎉 I have received the Third-class Academic Innovation Award, Future Technology Taihu Innovation Award by Wuxi government. 
-- *2024.06*: &nbsp;🎉🎉 I have gotten the National Second Prize of MathorCup Mathematical Application Challenge <span style="color:red;">(Top 5%)</span>!
-- *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of National College Students’ Mathematics Competition Guangdong Division**! 
-- *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of Huawei ICT Competition Guangdong Division**! 
-- *2023.10*: &nbsp;🎉🎉 I am going to join [Prof. Qi Liu](https://drliuqi.github.io/) Laboratory at South China University of Technology！
-- *2023.09*: &nbsp;🎉🎉 I have received the **Merit Student Honors, South China University of Technology**.
-- *2022.09*: &nbsp;🎉🎉 I have been admitted to [South China University of Technology](https://www.scut.edu.cn/)!
 
 
 # 📝 Publications 
@@ -76,6 +59,26 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 </div>
 
 
+# 🔥 News
+- *2025.09*: &nbsp;🎉🎉 I am honored to have been admitted to the doctoral program at the School of AI, SJTU! I'll spend the Ph.D journey supervised by [Prof.Xiangli](https://kam1107.github.io/)!
+- *2024.12*: &nbsp;🎉🎉 Our work [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1) has been accepted by **AAAI 2025**!
+<!-- - *2024.11*: &nbsp;🎉🎉 -->
+- *2024.10*: &nbsp;🎉🎉 I have received **First-Class South China University of Technology Scholarship** (¥30,000, <span style="color:red;">**Top 1%**</span>) for the academic year 2023-2024.
+- *2024.09*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">**Top 0.4%, national wide**</span>) for the academic year 2023-2024, with the rank **1/76**.
+- *2024.08*: &nbsp;🎉🎉 I am going to visiting _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) at [Westlake University](https://www.westlake.edu.cn/)!
+- *2024.06*: &nbsp;🎉🎉 I have harvested the **National College Student Innovation and Entrepreneurship Training Program <span style="color:red;">Outstanding Project Completion</span>**! 
+- *2024.06*: &nbsp;🎉🎉 I have received the Third-class Academic Innovation Award, Future Technology Taihu Innovation Award by Wuxi government. 
+- *2024.06*: &nbsp;🎉🎉 I have gotten the National Second Prize of MathorCup Mathematical Application Challenge <span style="color:red;">(Top 5%)</span>!
+- *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of National College Students’ Mathematics Competition Guangdong Division**! 
+- *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of Huawei ICT Competition Guangdong Division**! 
+- *2023.10*: &nbsp;🎉🎉 I am going to join [MPRG Lab](https://drliuqi.github.io/) at SCUT！
+- *2023.09*: &nbsp;🎉🎉 I have received the **Merit Student Honors, SCUT**.
+- *2022.09*: &nbsp;🎉🎉 I have been admitted to SCUT!
+
+
+
+
+
 # 🥇 Honors and Awards
 - *2024.10* **First-Class South China University of Technology Scholarship**, for the academic year 2023-2024.
 - *2024.09* **National Scholarship**, for the academic year 2023-2024.
@@ -84,7 +87,8 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 - *2023.09* **Third-Class South China University of Technology Scholarship**, for the academic year 2022-2023. 
 
 # 📖 Educations
-- *2022.09 - present*, [South China University of Technology](https://www.scut.edu.cn/), Undergraduate. 
+- *2026.09*, SJTU, Ph.D. **(Upcoming)**
+- *2022.09 - 2026.06*, SCUT, Undergraduate. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
