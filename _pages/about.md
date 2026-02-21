@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <strong> Welcome to Zhenyu's website! </strong>
 
-I am **Zhenyu Sun**, currently an undergraduate of SCUT at Guangzhou, China, and [here is my CV](/ZhenyuSun_CV.pdf) for specific information. My research so far has concentrated on Next-Generation 3DV, aiming at exploring modern 3D/4D Foundation Architecture, while preserving  
+I am **Zhenyu Sun**, currently an undergraduate of SCUT at Guangzhou, China, and [here is my CV](/ZhenyuSun_CV.pdf) for specific information. My research so far has concentrated on Next-Generation 3DV, aiming at exploring modern 3D/4D Foundation Architecture, while preserving long-term memory and physical interpretability.
 
 <!-- <strong><span style="color:red; font-size:larger;">Sincerely looking for 26 fall Ph.D position!</span></strong> -->
 
@@ -60,7 +60,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 I am honored to have been admitted to the doctoral program at the School of AI, SJTU! I'll spend the Ph.D journey supervised by [Prof.Xiangli](https://kam1107.github.io/)!
+- *2025.09*: &nbsp;🎉🎉 I am honored to have been admitted to the doctoral program at the School of AI, SJTU! I'll spend the Ph.D journey supervised by [Prof.Xiangli Yuanbo](https://kam1107.github.io/)!
 - *2024.12*: &nbsp;🎉🎉 Our work [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1) has been accepted by **AAAI 2025**!
 <!-- - *2024.11*: &nbsp;🎉🎉 -->
 - *2024.10*: &nbsp;🎉🎉 I have received **First-Class South China University of Technology Scholarship** (¥30,000, <span style="color:red;">**Top 1%**</span>) for the academic year 2023-2024.
