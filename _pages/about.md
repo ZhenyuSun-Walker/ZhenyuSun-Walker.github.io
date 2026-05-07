@@ -21,21 +21,25 @@ redirect_from:
 
 I am **Zhenyu Sun**, currently an undergraduate of SCUT at Guangzhou, China, and [here is my CV](/ZhenyuSun_CV.pdf) for specific information. My research so far has concentrated on Next-Generation 3DV, aiming at exploring modern 3D/4D Foundation Architecture, while preserving long-term memory and physical interpretability.
 
+### <span style="color:red;">**I will spend the Ph.D journey supervised by esteemed [Prof.Xiangli Yuanbo](https://kam1107.github.io/), in [SAI, SJTU](https://soai.sjtu.edu.cn/), from 2026 fall！**</span>
+
+
+
 <!-- <strong><span style="color:red; font-size:larger;">Sincerely looking for 26 fall Ph.D position!</span></strong> -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 📝 Publications 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (under reivew)</div><img src='/images/Publication/NGGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">     </div><img src='/images/Publication/CGGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-NGGS: Neural-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation
+CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation
 
 **Zhenyu Sun**, Xiaohan Zhang, Qi Liu, Huan Wang\*
--  We propose NGGS,  a new framework for ego-centric 3D scene generation from textual description. With the novel insight in MV-LDM and 3D Gaussian optimization, our method surpasses previous counterparts in terms of semantic alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
+-  We propose CGGS,  a new framework for ego-centric 3D scene generation from textual description. With the novel insight in MV-LDM and 3D Gaussian optimization, our method surpasses previous counterparts in terms of semantic alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
 </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/Publication/Toy-GS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,7 +52,7 @@ Xiaohan Zhang, **Zhenyu Sun**, Yukui Qiu, Junyan Su, Qi Liu\*
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='/images/Publication/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026 (under review)</div><img src='/images/Publication/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering](https://arxiv.org/pdf/2405.06214)
@@ -60,6 +64,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">**Top 0.4%, national wide**</span>) for the academic year 2024-20245, with the rank **1/76**！
 - *2025.09*: &nbsp;🎉🎉 I am honored to have been admitted to the doctoral program at the School of AI, SJTU! I'll spend the Ph.D journey supervised by [Prof.Xiangli Yuanbo](https://kam1107.github.io/)!
 - *2024.12*: &nbsp;🎉🎉 Our work [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1) has been accepted by **AAAI 2025**!
 <!-- - *2024.11*: &nbsp;🎉🎉 -->
