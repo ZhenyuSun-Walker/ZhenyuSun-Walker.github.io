@@ -21,7 +21,7 @@ redirect_from:
 
 I am **Zhenyu Sun**, currently an undergraduate of SCUT at Guangzhou, China, and [here is my CV](/ZhenyuSun_CV.pdf) for specific information. My research so far has concentrated on Next-Generation 3DV, aiming at exploring modern 3D/4D Foundation Architecture, while preserving long-term memory and physical interpretability.
 
-### <span style="color:red;">**I will spend the Ph.D journey supervised by esteemed [Prof.Xiangli Yuanbo](https://kam1107.github.io/), in [SAI, SJTU](https://soai.sjtu.edu.cn/), from 2026 fall！**</span>
+## <span style="color:red;">**I will spend the Ph.D journey supervised by esteemed [Prof.Yuanbo Xiangli](https://kam1107.github.io/), in [SAI, SJTU](https://soai.sjtu.edu.cn/), from 2026 fall！**</span>
 
 
 
