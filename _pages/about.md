@@ -86,6 +86,8 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 
 
 # 🥇 Honors and Awards
+- *2025.10* **Second-Class South China University of Technology Scholarship**, for the academic year 2024-2025.
+- *2025.09* **National Scholarship**, for the academic year 2024-2025.
 - *2024.10* **First-Class South China University of Technology Scholarship**, for the academic year 2023-2024.
 - *2024.09* **National Scholarship**, for the academic year 2023-2024.
 - *2024.06* **Third-class Academic Innovation Award**, Future Technology Taihu Innovation Award by Wuxi government. 
