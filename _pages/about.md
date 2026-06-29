@@ -65,7 +65,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 - *2026.06*: &nbsp;🎉🎉 My undergraduate thesis has received the **Excellent** evaluation！
 - *2026.05*: &nbsp;🌟🌟 I had the privilege of participating in **CCIG 2026**. I was delighted to reunite with [Prof. Xiaoguang Han](https://sse.cuhk.edu.cn/en/faculty/hanxiaoguang), [Prof. Huan Wang](https://huanwang.tech/) and [Prof. Qi Liu](https://drliuqi.github.io/)！
 - *2026.04*: &nbsp;🌟🌟 I was honored to participate in **China3DV 2026**, where I had the opportunity to engage in stimulating exchanges of ideas with scholars and professors in the field！
-- *2026.03*: &nbsp;🌟🌟 I'm undertaking an on-site research internship under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
+- *2026.03*: &nbsp;🌟🌟 I'm undertaking an on-site research internship, supervised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
 - *2025.12*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">**Top 0.4%, national wide**</span>) for the academic year 2024-20245, with the rank **1/76**！
 - *2025.09*: &nbsp;🎉🎉 I am honored to have been admitted to the doctoral program at the **School of AI, Shanghai Jiao Tong University (SJTU)**! I'll spend the Ph.D journey supervised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/)!
 - *2024.12*: &nbsp;🎉🎉 Our work [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1) has been accepted by **AAAI 2025**!
