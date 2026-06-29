@@ -17,7 +17,9 @@ redirect_from:
 
 # ⌨️ About Me
 <span class='anchor' id='about-me'></span>
-<strong> Welcome to Zhenyu's website! </strong> I am **Zhenyu Sun**, a graduate of South China University of Technology (SCUT) in Guangzhou, China, where I earned a GPA of **3.97/4.00** (rank:**1/76**)). Here is my [CV](/ZhenyuSun_CV.pdf) for specific information. My research so far has concentrated on Next-Generation 3DV, aiming at exploring modern 3D/4D Foundation Architecture, while enhancing the spatial intelligence.
+<strong> Welcome to Zhenyu's website! </strong> 
+
+I am **Zhenyu Sun**, a graduate of South China University of Technology (SCUT), where I earned a GPA of **3.97/4.00** (rank:**1/76**)). Here is my [CV](/ZhenyuSun_CV.pdf) for specific information. My research so far has concentrated on Next-Generation 3DV, aiming at exploring modern 3D/4D Foundation Architecture, while enhancing the spatial intelligence.
 
 ## <span style="color:red;">**I will spend the Ph.D journey supervised by esteemed [Prof. Yuanbo Xiangli](https://kam1107.github.io/), in [SAI, SJTU](https://soai.sjtu.edu.cn/), from 2026 fall！**</span>
 
@@ -81,10 +83,6 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 - *2023.09*: &nbsp;🎉🎉 I have received the **Merit Student Honors, SCUT**.
 - *2022.09*: &nbsp;🎉🎉 I have been admitted to **South China University of Technology (SCUT)**!
 
-
-
-
-
 # 🥇 Honors and Awards
 - *2025.10* **Second-Class South China University of Technology Scholarship**, for the academic year 2024-2025.
 - *2025.09* **National Scholarship**, for the academic year 2024-2025.
@@ -103,19 +101,10 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 
-
 # 💻 Internships
 - *2026.03 - 2026.09* I'm undertaking an on-site research internship  under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
 - *2025.09 - 2025.12* I conducted remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**.
 - *2024.07 - 2025.05* I visit the _**ENCODE Lab**_ of [Prof. Huan Wang](https://huanwang.tech/), at **Westlake University**, China. From July to September, I participated in person, and subsequently, I continued to collaborate remotely.
-
-<!-- Map Widget -->
-<br>
-<div style="width: 2000px; height: 2000px; margin: auto;"> 
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Cl6nCOwEKjyf4Du8XRwYJPZeD-QM6VPN5tFwyzzHDUk"></script>
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Cl6nCOwEKjyf4Du8XRwYJPZeD-QM6VPN5tFwyzzHDUk&cl=ffffff&w=a"></script>
-</div>
-<br>
 
 
 # 🩴 My Life
@@ -132,13 +121,6 @@ I am profoundly grateful beyond words！<br>
     <img src="images/westlake002.jpg" alt="Westlake002" width="330" height="270">
 </div>
 
-<!-- - *2024.04*, I came to the **Xinhai Revolution Museum** and the **Former Site of the Whampoa Military Academy** for research and study, and felt the feelings of the family and country in history！<br>
-<div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
-    <img src="images/008.png" alt="Xinhai Revolution Museum" width="330" height="270">&nbsp;&nbsp;&nbsp;
-    <img src="images/007.png" alt="Former site of the Whampoa Military Academy" width="330" height="270">
-</div>
-
-<br> -->
 
 - *2024.02*, I went to **Shunde, Guangzhou** for vacation and experienced the local culinary culture, including **Shunde desserts** and **Shunde sashimi**!<br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
@@ -254,11 +236,3 @@ window.addEventListener('resize', calculateTotalWidth);
 </div>
 <br>
 
-
-<!-- Map Widget -->
-<!-- <br>
-<div style="width: 2000px; height: 2000px; margin: auto;"> 
-  <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Cl6nCOwEKjyf4Du8XRwYJPZeD-QM6VPN5tFwyzzHDUk"></script>
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Cl6nCOwEKjyf4Du8XRwYJPZeD-QM6VPN5tFwyzzHDUk&cl=ffffff&w=a"></script>
-</div>
-<br> -->
