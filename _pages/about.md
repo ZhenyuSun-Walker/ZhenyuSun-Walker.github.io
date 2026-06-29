@@ -67,20 +67,21 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 - *2026.06*: &nbsp;🎉🎉 My undergraduate thesis has received the **Excellent** evaluation！
 - *2026.05*: &nbsp;🌟🌟 I had the privilege of participating in **CCIG 2026**. I was delighted to reunite with [Prof. Xiaoguang Han](https://sse.cuhk.edu.cn/en/faculty/hanxiaoguang), [Prof. Huan Wang](https://huanwang.tech/) and [Prof. Qi Liu](https://drliuqi.github.io/)！
 - *2026.04*: &nbsp;🌟🌟 I was honored to participate in **China3DV 2026**, where I had the opportunity to engage in stimulating exchanges of ideas with scholars and professors in the field！
+- *2026.03*: &nbsp;🌟🌟 I'm undertaking an on-site research internship under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
 - *2025.12*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">**Top 0.4%, national wide**</span>) for the academic year 2024-20245, with the rank **1/76**！
-- *2025.09*: &nbsp;🎉🎉 I am honored to have been admitted to the doctoral program at the School of AI, SJTU! I'll spend the Ph.D journey supervised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/)!
+- *2025.09*: &nbsp;🎉🎉 I am honored to have been admitted to the doctoral program at the **School of AI, Shanghai Jiao Tong University (SJTU)**! I'll spend the Ph.D journey supervised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/)!
 - *2024.12*: &nbsp;🎉🎉 Our work [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1) has been accepted by **AAAI 2025**!
 - *2024.10*: &nbsp;🎉🎉 I have received **First-Class South China University of Technology Scholarship** (¥30,000, <span style="color:red;">**Top 1%**</span>) for the academic year 2023-2024.
 - *2024.09*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">**Top 0.4%, national wide**</span>) for the academic year 2023-2024, with the rank **1/76**.
-- *2024.08*: &nbsp;🎉🎉 I am going to visiting _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) at [Westlake University](https://www.westlake.edu.cn/)!
+- *2024.08*: &nbsp;✨✨ I am going to visiting _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) at **WLU**!
 - *2024.06*: &nbsp;🎉🎉 I have harvested the **National College Student Innovation and Entrepreneurship Training Program <span style="color:red;">Outstanding Project Completion</span>**! 
 - *2024.06*: &nbsp;🎉🎉 I have received the Third-class Academic Innovation Award, Future Technology Taihu Innovation Award by Wuxi government. 
 - *2024.06*: &nbsp;🎉🎉 I have gotten the National Second Prize of MathorCup Mathematical Application Challenge <span style="color:red;">(Top 5%)</span>!
 - *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of National College Students’ Mathematics Competition Guangdong Division**! 
 - *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of Huawei ICT Competition Guangdong Division**! 
-- *2023.10*: &nbsp;🎉🎉 I am going to join [MPRG Lab](https://drliuqi.github.io/) at SCUT！
+- *2023.10*: &nbsp;🎉🎉 I am going to join [MPRG Lab](https://drliuqi.github.io/) at **SCUT**！
 - *2023.09*: &nbsp;🎉🎉 I have received the **Merit Student Honors, SCUT**.
-- *2022.09*: &nbsp;🎉🎉 I have been admitted to SCUT!
+- *2022.09*: &nbsp;🎉🎉 I have been admitted to **South China University of Technology (SCUT)**!
 
 
 
@@ -104,7 +105,9 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 
 
 # 💻 Internships
-- *2024.07 - 2025.05* I visit the _**ENCODE Lab**_ of **Prof. Huan Wang**, at [Westlake University](https://www.westlake.edu.cn/), China. From July to September, I participated in person, and subsequently, I continued to collaborate remotely.
+- *2026.03 - 2026.09* I'm undertaking an on-site research internship  under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
+- *2025.09 - 2025.12* I conducted remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**.
+- *2024.07 - 2025.05* I visit the _**ENCODE Lab**_ of [Prof. Huan Wang](https://huanwang.tech/), at **Westlake University**, China. From July to September, I participated in person, and subsequently, I continued to collaborate remotely.
 
 <!-- # 🩴 My Life
 - *2025.01*, I went to **Guangzhou Huadu Sunac** with my friends for **skiing**! <br>
