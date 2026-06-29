@@ -106,7 +106,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 # 💻 Internships
 - *2024.07 - 2025.05* I visit the _**ENCODE Lab**_ of **Prof. Huan Wang**, at [Westlake University](https://www.westlake.edu.cn/), China. From July to September, I participated in person, and subsequently, I continued to collaborate remotely.
 
-# 🩴 My Life
+<!-- # 🩴 My Life
 - *2025.01*, I went to **Guangzhou Huadu Sunac** with my friends for **skiing**! <br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
     <img src="images/skiing001.jpg" alt="Westlake001" width="330" height="270">&nbsp;&nbsp;&nbsp;
@@ -119,14 +119,6 @@ I am profoundly grateful beyond words！<br>
     <img src="images/westlake001.jpg" alt="Westlake001" width="330" height="270">&nbsp;&nbsp;&nbsp;
     <img src="images/westlake002.jpg" alt="Westlake002" width="330" height="270">
 </div>
-
-<!-- - *2024.04*, I came to the **Xinhai Revolution Museum** and the **Former Site of the Whampoa Military Academy** for research and study, and felt the feelings of the family and country in history！<br>
-<div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
-    <img src="images/008.png" alt="Xinhai Revolution Museum" width="330" height="270">&nbsp;&nbsp;&nbsp;
-    <img src="images/007.png" alt="Former site of the Whampoa Military Academy" width="330" height="270">
-</div>
-
-<br> -->
 
 - *2024.02*, I went to **Shunde, Guangzhou** for vacation and experienced the local culinary culture, including **Shunde desserts** and **Shunde sashimi**!<br>
 <div style="display:flex; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
@@ -150,7 +142,7 @@ I am profoundly grateful beyond words！<br>
         <img src="images/skiing002.jpg" alt="Image 8">
         <img src="images/westlake002.jpg" alt="Image 9">
     </div>
-</div>
+</div> -->
 
 <script>
 var slider = document.getElementById('slider');
