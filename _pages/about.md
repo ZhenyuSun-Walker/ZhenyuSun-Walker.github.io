@@ -61,7 +61,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 </div>
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 Congrats that our [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation]() has been accepted by **AAAI 2025**！
+- *2026.06*: &nbsp;🎉🎉 Congrats that our [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation]() has been accepted by **TIP 2026**！
 - *2026.06*: &nbsp;🎉🎉 My undergraduate thesis has received the **Excellent** evaluation！
 - *2026.05*: &nbsp;🌟🌟 I had the privilege of participating in **CCIG 2026**. I was delighted to reunite with [Prof. Xiaoguang Han](https://sse.cuhk.edu.cn/en/faculty/hanxiaoguang), [Prof. Huan Wang](https://huanwang.tech/) and [Prof. Qi Liu](https://drliuqi.github.io/)！
 - *2026.04*: &nbsp;🌟🌟 I was honored to participate in **China3DV 2026**, where I had the opportunity to engage in stimulating exchanges of ideas with scholars and professors in the field！
