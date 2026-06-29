@@ -31,7 +31,7 @@ I am **Zhenyu Sun**, currently an undergraduate of SCUT at Guangzhou, China, and
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">     </div><img src='/images/Publication/CGGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='/images/Publication/CGGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation
