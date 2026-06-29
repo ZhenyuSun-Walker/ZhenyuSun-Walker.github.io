@@ -17,9 +17,7 @@ redirect_from:
 
 # ⌨️ About Me
 <span class='anchor' id='about-me'></span>
-<strong> Welcome to Zhenyu's website! </strong>
-
-I am **Zhenyu Sun**, a graduate of South China University of Technology (SCUT) in Guangzhou, China, where I earned a GPA of **3.97/4.00** (rank:**1/76**)). Here is my [CV](/ZhenyuSun_CV.pdf) for specific information. My research so far has concentrated on Next-Generation 3DV, aiming at exploring modern 3D/4D Foundation Architecture, while enhancing the spatial intelligence.
+<strong> Welcome to Zhenyu's website! </strong> I am **Zhenyu Sun**, a graduate of South China University of Technology (SCUT) in Guangzhou, China, where I earned a GPA of **3.97/4.00** (rank:**1/76**)). Here is my [CV](/ZhenyuSun_CV.pdf) for specific information. My research so far has concentrated on Next-Generation 3DV, aiming at exploring modern 3D/4D Foundation Architecture, while enhancing the spatial intelligence.
 
 ## <span style="color:red;">**I will spend the Ph.D journey supervised by esteemed [Prof. Yuanbo Xiangli](https://kam1107.github.io/), in [SAI, SJTU](https://soai.sjtu.edu.cn/), from 2026 fall！**</span>
 
