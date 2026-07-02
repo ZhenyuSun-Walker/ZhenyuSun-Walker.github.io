@@ -23,9 +23,13 @@ I am **Zhenyu Sun**, a graduate of South China University of Technology (SCUT), 
 
 Here is my [**CV**](/ZhenyuSun_CV.pdf) for specific information. 
 
-My research so far has concentrated on Next-Generation 3DV, aiming at exploring modern 3D/4D Foundation Architecture, while enhancing the spatial intelligence.
+My research so far has concentrated on **Next-Generation 3DV**, targeting robust, efficient, adaptive and physically plausible 3D reconstruction and generation. 
 
-## <span style="color:red;">**I will spend the Ph.D journey supervised by esteemed [Prof. Yuanbo Xiangli](https://kam1107.github.io/), in [SAI, SJTU](https://soai.sjtu.edu.cn/), from 2026 fall！**</span>
+I'm also interested in **Generative World Model**: realizing world understanding, disambiguation, and prediction, with geometry and physics-based protocol.
+
+I believe the exploration above will pave the way for realizing **Multimodal Intelligence** and **Generalized Intelligence**.
+
+## <span style="color:red;">**I will spend the Ph.D journey supervised by esteemed [Prof. Yuanbo Xiangli](https://kam1107.github.io/), in SAI, Shanghai Jiao Tong University (SJTU), from 2026 fall！**</span>
 
 
 
@@ -119,7 +123,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 # 💻 Professional Experiences
 - *2026.03 - 2026.09* I'm undertaking an on-site research internship  under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
 - *2025.09 - 2026.01* I conducted remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**.
-- *2024.07 - 2025.05* I visit the _**ENCODE Lab**_ of [Prof. Huan Wang](https://huanwang.tech/), at **Westlake University**, China. From July to September, I participated in person, and subsequently, I continued to collaborate remotely.
+- *2024.07 - 2025.05* I visit the _**ENCODE Lab**_ of [Prof. Huan Wang](https://huanwang.tech/), at **Westlake University**. From July to September, I participated in person; then I continued to collaborate remotely.
 
 <!-- Globe Widget -->
 <br>
