@@ -25,12 +25,8 @@ I am **Zhenyu Sun**, a graduate of South China University of Technology (SCUT), 
 
 
 
-<!-- <strong><span style="color:red; font-size:larger;">Sincerely looking for 26 fall Ph.D position!</span></strong> -->
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
-
 # 📝 Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='/images/Publication/CGGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
