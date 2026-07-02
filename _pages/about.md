@@ -37,6 +37,20 @@ I am **Zhenyu Sun**, a graduate of South China University of Technology (SCUT), 
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/Publication/Garment-X.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GarmentX: Autoregressive Parametric Representations for High-Fidelity 3D Garment Generation](https://arxiv.org/pdf/2504.20409)
+
+Jingfeng Guo, Jinnan Chen, Weikai Chen, **Zhenyu Sun**, Lanjiong Li, Baozhu Zhao, Lingting Zhu, Xin Wang, Qi Liu\*
+-  We propose GarmentX, an image-guided 3D garment generator that produces editable garment parameters, decodes valid sewing patterns,
+and simulates wearable 3D garments. By adjusting garment parameters, users can easily modify the shape, style, and even category of the
+garments. The generated garments are diverse, high-fidelity, and physically plausible.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='/images/Publication/Toy-GS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +62,7 @@ Xiaohan Zhang, **Zhenyu Sun**, Yukui Qiu, Junyan Su, Qi Liu\*
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026 (under review)</div><img src='/images/Publication/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/Publication/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering](https://arxiv.org/pdf/2405.06214)
