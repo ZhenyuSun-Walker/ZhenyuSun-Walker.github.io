@@ -34,7 +34,7 @@ I am **Zhenyu Sun**, a graduate of South China University of Technology (SCUT), 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='/images/Publication/CGGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation]()
+[CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation](https://cggs-26.github.io/cggs26/)
 
 **Zhenyu Sun**, Xiaohan Zhang, Qi Liu\*, Huan Wang\*
 -  We propose CGGS, a new framework for ego-centric 3D scene generation from textual description. With the novel insight in MV-LDM and 3D Gaussian optimization, our method surpasses previous counterparts in terms of semantic alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
