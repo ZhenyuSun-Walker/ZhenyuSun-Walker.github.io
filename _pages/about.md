@@ -38,7 +38,7 @@ I am **Zhenyu Sun**, a graduate of South China University of Technology (SCUT), 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/Publication/Garment-X.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='/images/Publication/Garment-X.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GarmentX: Autoregressive Parametric Representations for High-Fidelity 3D Garment Generation](https://arxiv.org/pdf/2504.20409)
@@ -62,7 +62,7 @@ Xiaohan Zhang, **Zhenyu Sun**, Yukui Qiu, Junyan Su, Qi Liu\*
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='/images/Publication/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2024</div><img src='/images/Publication/Aerial-NeRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering](https://arxiv.org/pdf/2405.06214)
