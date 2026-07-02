@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <strong> Welcome to Zhenyu's website! </strong> 
 
-I am **Zhenyu Sun**, a graduate of South China University of Technology (SCUT), where I earned a GPA of **3.97/4.00** (rank:**1/76**)). 
+I am **Zhenyu Sun**, a graduate of South China University of Technology (SCUT), where I earned a GPA of **3.97/4.00** (rank:**1/76**). 
 
 Here is my [**CV**](/ZhenyuSun_CV.pdf) for specific information. 
 
