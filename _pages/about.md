@@ -112,9 +112,9 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 
-# 💻 Internships
+# 💻 Professional Experiences
 - *2026.03 - 2026.09* I'm undertaking an on-site research internship  under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
-- *2025.09 - 2025.12* I conducted remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**.
+- *2025.09 - 2026.01* I conducted remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**.
 - *2024.07 - 2025.05* I visit the _**ENCODE Lab**_ of [Prof. Huan Wang](https://huanwang.tech/), at **Westlake University**, China. From July to September, I participated in person, and subsequently, I continued to collaborate remotely.
 
 <!-- Globe Widget -->
