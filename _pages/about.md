@@ -40,7 +40,7 @@ I believe the exploration above will pave the way for realizing **Multimodal Int
 
 [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation](https://cggs-26.github.io/cggs26/)
 
-**Zhenyu Sun**, Xiaohan Zhang, Qi Liu\*, Huan Wang\*
+**Zhenyu Sun**, Xiaohan Zhang, Qi Liu $\uparrow$, Huan Wang $\uparrow$
 -  We propose CGGS, a new framework for ego-centric 3D scene generation from textual description. With the novel insight in MV-LDM and 3D Gaussian optimization, our method surpasses previous counterparts in terms of semantic alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
 </div>
 </div>
@@ -51,7 +51,7 @@ I believe the exploration above will pave the way for realizing **Multimodal Int
 
 [GarmentX: Autoregressive Parametric Representations for High-Fidelity 3D Garment Generation](https://arxiv.org/pdf/2504.20409)
 
-Jingfeng Guo, Jinnan Chen, Weikai Chen, **Zhenyu Sun**, Lanjiong Li, Baozhu Zhao, Lingting Zhu, Xin Wang, Qi Liu\*
+Jingfeng Guo, Jinnan Chen, Weikai Chen, **Zhenyu Sun**, Lanjiong Li, Baozhu Zhao, Lingting Zhu, Xin Wang, Qi Liu $\uparrow$
 -  We propose GarmentX, an image-guided 3D garment generator that produces editable garment parameters, decodes valid sewing patterns,
 and simulates wearable 3D garments. By adjusting garment parameters, users can easily modify the shape, style, and even category of the
 garments. The generated garments are diverse, high-fidelity, and physically plausible.
@@ -64,7 +64,7 @@ garments. The generated garments are diverse, high-fidelity, and physically plau
 
 [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1)
 
-Xiaohan Zhang, **Zhenyu Sun**, Yukui Qiu, Junyan Su, Qi Liu\*
+Xiaohan Zhang, **Zhenyu Sun**, Yukui Qiu, Junyan Su, Qi Liu $\uparrow$
 -  We propose Toy-GS, a novel method that adaptively assembles local Gaussians to enhance rendering quality and reduce GPU memory usage for large-scale free camera trajectories.
 </div>
 </div>
@@ -75,7 +75,7 @@ Xiaohan Zhang, **Zhenyu Sun**, Yukui Qiu, Junyan Su, Qi Liu\*
 
 [Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering](https://arxiv.org/pdf/2405.06214)
 
-Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu\*
+Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $\uparrow$
 -  We propose Aerial-NeRF with three innovative modifications for jointly adapting NeRF in large-scale aerial rendering. Our model allows us to perform rendering over 4 times as fast as compared to multiple competitors.
 </div>
 </div>
