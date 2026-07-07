@@ -98,7 +98,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $\uparrow$
 - *2024.06*: &nbsp;🎉🎉 I have gotten the National Second Prize of MathorCup Mathematical Application Challenge <span style="color:red;">(Top 5%)</span>!
 - *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of National College Students’ Mathematics Competition Guangdong Division**! 
 - *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of Huawei ICT Competition Guangdong Division**! 
-- *2023.10*: &nbsp;🎉🎉 I am going to join [MPRG Lab](https://drliuqi.github.io/) at **SCUT**！
+- *2023.09*: &nbsp;🎉🎉 I am going to join [MPRG Lab](https://drliuqi.github.io/) at **SCUT**！
 - *2023.09*: &nbsp;🎉🎉 I have received the **Merit Student Honors, SCUT**.
 - *2022.09*: &nbsp;🎉🎉 I have been admitted to **South China University of Technology (SCUT)**!
 
@@ -121,9 +121,10 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $\uparrow$
 
 
 # 💻 Professional Experiences
-- *2026.03 - 2026.09* I'm undertaking an on-site research internship  under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
-- *2025.09 - 2026.01* I conducted remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**.
-- *2024.07 - 2025.05* I visit the _**ENCODE Lab**_ of [Prof. Huan Wang](https://huanwang.tech/), at **Westlake University**. From July to September, I participated in person; then I continued to collaborate remotely.
+- *2026.03 - 2026.09* I'm undertaking an on-site research internship under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
+- *2025.09 - 2026.01* I conduct remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**.
+- *2024.07 - 2025.05* I visit the _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/), at **Westlake University**. From July to September, I participated in person; then I continued to collaborate remotely.
+- *2023.09 - 2024.07* I join the _MPRG Lab_ of [Prof. Qi Liu](https://drliuqi.github.io/), at **South China University of Technology**.
 
 <!-- Globe Widget -->
 <br>
