@@ -25,7 +25,7 @@ Here is my [**CV**](/ZhenyuSun_CV.pdf) for specific information.
 
 My research so far has concentrated on **Next-Generation 3DV**, targeting robust, efficient, adaptive and physically plausible 3D reconstruction and generation. 
 
-I'm also interested in **Generative World Model**: realizing world understanding, disambiguation, and prediction, with geometry and physics-based protocol.
+I'm also interested in **Generative World Model**, aiming at realize world understanding, disambiguation, and prediction, with geometry and physics-based protocol.
 
 I believe the exploration above will pave the way for realizing **Multimodal Intelligence** and **Generalized Intelligence**.
 
@@ -50,7 +50,7 @@ I believe the exploration above will pave the way for realizing **Multimodal Int
 - *2024.06*: &nbsp;🎉🎉 I have gotten the National Second Prize of MathorCup Mathematical Application Challenge <span style="color:red;">(Top 5%)</span>!
 - *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of National College Students’ Mathematics Competition Guangdong Division**! 
 - *2023.12*: &nbsp;🎉🎉 I have won the **First Prize of Huawei ICT Competition Guangdong Division**! 
-- *2023.09*: &nbsp;🎉🎉 I am going to join [MPRG Lab](https://drliuqi.github.io/) at **SCUT**！
+- *2023.09*: &nbsp;🎉🎉 I am going to join _MPRG Lab_ of [Prof. Qi Liu](https://drliuqi.github.io/) at **SCUT**！
 - *2023.09*: &nbsp;🎉🎉 I have received the **Merit Student Honors, SCUT**.
 - *2022.09*: &nbsp;🎉🎉 I have been admitted to **South China University of Technology (SCUT)**!
 
