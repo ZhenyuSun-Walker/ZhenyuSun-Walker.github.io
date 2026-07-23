@@ -113,7 +113,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $^\uparrow$
 - *2023.09* **Third-Class South China University of Technology Scholarship**, for the academic year 2022-2023. 
 
 # 📖 Educations
-- *2026.09*, SJTU, Ph.D. **(Upcoming)**
+- *2026.09*, SJTU, Ph.D. **(Incoming)**
 - *2022.09 - 2026.06*, SCUT, Undergraduate. 
 
 <!-- # 💬 Invited Talks
@@ -124,8 +124,8 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $^\uparrow$
 # 💻 Professional Experiences
 - *2026.03 - 2026.09* I'm undertaking an on-site research internship under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
 - *2025.09 - 2026.01* I conduct remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**.
-- *2024.07 - 2025.05* I visit the _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/), at **Westlake University**. From July to September, I participated in person; then I continued to collaborate remotely.
-- *2023.09 - 2024.07* I join the _MPRG Lab_ of [Prof. Qi Liu](https://drliuqi.github.io/), at **South China University of Technology**.
+- *2024.08 - 2025.05* I visit the _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/), at **Westlake University**. From July to September, I participated in person; then I continued to collaborate remotely.
+- *2023.09 - 2024.08* I join the _MPRG Lab_ of [Prof. Qi Liu](https://drliuqi.github.io/), at **South China University of Technology**.
 
 <!-- Globe Widget -->
 <br>
