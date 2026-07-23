@@ -33,7 +33,7 @@ I believe the exploration above will pave the way for realizing **Multimodal Int
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 Congrats that our [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation](https://cggs-26.github.io/cggs26/) has been accepted by **TIP 2026**！
+- *2026.06*: &nbsp;🎉🎉 Congrats that our [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation](https://cggs-26.github.io/cggs26/) has been accepted by **TIP 2026**！
 - *2026.06*: &nbsp;🎉🎉 My undergraduate thesis has received the **Excellent** evaluation！
 - *2026.05*: &nbsp;🌟🌟 I had the privilege of participating in **CCIG 2026**. I was delighted to reunite with [Prof. Huan Wang](https://huanwang.tech/), [Prof. Qi Liu](https://drliuqi.github.io/) and [Prof. Xiaoguang Han](https://sse.cuhk.edu.cn/en/faculty/hanxiaoguang)！
 - *2026.04*: &nbsp;🌟🌟 I was honored to participate in **China3DV 2026**, where I had the opportunity to engage in stimulating exchanges of ideas with scholars and professors in the field！
@@ -60,7 +60,7 @@ I believe the exploration above will pave the way for realizing **Multimodal Int
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='/images/Publication/CGGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation](https://cggs-26.github.io/cggs26/)
+[CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation](https://cggs-26.github.io/cggs26/)
 
 **Zhenyu Sun**, Xiaohan Zhang, Qi Liu $^\uparrow$, Huan Wang $^\uparrow$
 -  We propose CGGS, a new framework for ego-centric 3D scene generation from textual description. With the novel insight in MV-LDM and 3D Gaussian optimization, our method surpasses previous counterparts in terms of semantic alignment, perceptual quality, and rendering fidelity when producing realistic, domain-free 3D scenes.
