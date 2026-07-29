@@ -126,8 +126,8 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $^\uparrow$
 
 # 💻 Professional Experiences
 - *2026.03 - 2026.09* I'm undertaking an on-site research internship under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
-<!-- - *2025.09 - 2026.01* I conduct remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**. -->
-- *2024.08 - 2025.05* I visit the _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/), at **Westlake University**. From July to September, I participated in person; then I continued to collaborate remotely.
+- *2025.09 - 2026.01* I conduct remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
+- *2024.08 - 2025.05* I visit _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) for research collaboration, at **Westlake University**. From July to September, I participated in person; then I continued to collaborate remotely.
 - *2023.09 - 2024.08* I join the _MPRG Lab_ of [Prof. Qi Liu](https://drliuqi.github.io/), at **South China University of Technology**.
 
 <!-- Globe Widget -->
