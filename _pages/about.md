@@ -38,12 +38,12 @@ I believe the exploration above will pave the way for realizing **Multimodal Int
 - *2026.05*: &nbsp;🌟🌟 I had the privilege of participating in **CCIG 2026**. I was delighted to reunite with [Prof. Huan Wang](https://huanwang.tech/), [Prof. Qi Liu](https://drliuqi.github.io/) and [Prof. Xiaoguang Han](https://sse.cuhk.edu.cn/en/faculty/hanxiaoguang)！
 - *2026.04*: &nbsp;🌟🌟 I was honored to participate in **China3DV 2026**, where I had the opportunity to engage in stimulating exchanges of ideas with scholars and professors in the field！
 - *2026.03*: &nbsp;✨✨ I'm undertaking an on-site research internship, supervised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
-- *2025.09*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">**Top 0.4%, national wide**</span>) for the academic year 2024-2025, with the rank **1/76**！
+- *2025.10*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">**Top 0.4%, national wide**</span>) for the academic year 2024-2025, with the rank **1/76**！
 - *2025.09*: &nbsp;✨✨ I'm conducting remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**.
 - *2025.09*: &nbsp;🎉🎉 I am honored to have been admitted to the doctoral program at the **School of AI, Shanghai Jiao Tong University (SJTU)**! I'll spend the Ph.D journey supervised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/)!
 - *2024.12*: &nbsp;🎉🎉 Our work [Toy-GS: Assembling Local Gaussians for Precisely Rendering Large-Scale Free Camera Trajectories](https://arxiv.org/pdf/2412.10078v1) has been accepted by **AAAI 2025**!
-- *2024.10*: &nbsp;🎉🎉 I have received **First-Class South China University of Technology Scholarship** (¥30,000, <span style="color:red;">**Top 1%**</span>) for the academic year 2023-2024.
-- *2024.09*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">**Top 0.4%, national wide**</span>) for the academic year 2023-2024, with the rank **1/76**.
+- *2024.10*: &nbsp;🎉🎉 I have received **National Scholarship** (¥10,000, <span style="color:red;">**Top 0.4%, national wide**</span>) for the academic year 2023-2024, with the rank **1/76**.
+- *2024.09*: &nbsp;🎉🎉 I have received **First-Class South China University of Technology Scholarship** (¥30,000, <span style="color:red;">**Top 1%**</span>) for the academic year 2023-2024.
 - *2024.08*: &nbsp;✨✨ I am going to visiting _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) at **WLU**!
 - *2024.06*: &nbsp;🎉🎉 I have harvested the **National College Student Innovation and Entrepreneurship Training Program <span style="color:red;">Outstanding Project Completion</span>**! 
 - *2024.06*: &nbsp;🎉🎉 I have received the Third-class Academic Innovation Award, Future Technology Taihu Innovation Award by Wuxi government. 
@@ -126,8 +126,8 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $^\uparrow$
 
 # 💻 Professional Experiences
 - *2026.03 - 2026.09* I'm undertaking an on-site research internship under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
-- *2025.09 - 2026.01* I conduct remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
-- *2024.08 - 2025.05* I visit _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) for research collaboration, at **Westlake University**. From July to September, I participated in person; then I continued to collaborate remotely.
+- *2025.09 - 2026.02* I conduct remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
+- *2024.08 - 2025.05* I visit _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) for research collaboration, at **Westlake University**. 
 - *2023.09 - 2024.08* I join the _MPRG Lab_ of [Prof. Qi Liu](https://drliuqi.github.io/), at **South China University of Technology**.
 
 <!-- Globe Widget -->
