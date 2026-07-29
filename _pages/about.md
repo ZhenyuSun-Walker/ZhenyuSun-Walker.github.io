@@ -104,10 +104,13 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $^\uparrow$
 
 
 # 🥇 Honors and Awards
-- *2025.10* **Second-Class South China University of Technology Scholarship**, for the academic year 2024-2025.
-- *2025.09* **National Scholarship**, for the academic year 2024-2025.
-- *2024.10* **First-Class South China University of Technology Scholarship**, for the academic year 2023-2024.
-- *2024.09* **National Scholarship**, for the academic year 2023-2024.
+- *2026.05* **Excellent Undergraduate Thesis**, for the academic year 2025-2026.
+- *2025.10* **National Scholarship**, for the academic year 2024-2025.
+- *2025.10* **Merit Student Honors**, South China University of Technology, for the academic year 2024-2025. 
+- *2025.09* **Second-Class South China University of Technology Scholarship**, for the academic year 2024-2025.
+- *2024.10* **National Scholarship**, for the academic year 2023-2024.
+- *2024.10* **Merit Student Honors**, South China University of Technology, for the academic year 2023-2024. 
+- *2024.09* **First-Class South China University of Technology Scholarship**, for the academic year 2023-2024.
 - *2024.06* **Third-class Academic Innovation Award**, Future Technology Taihu Innovation Award by Wuxi government. 
 - *2023.10* **Merit Student Honors**, South China University of Technology, for the academic year 2022-2023. 
 - *2023.09* **Third-Class South China University of Technology Scholarship**, for the academic year 2022-2023. 
@@ -123,7 +126,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $^\uparrow$
 
 # 💻 Professional Experiences
 - *2026.03 - 2026.09* I'm undertaking an on-site research internship under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
-- *2025.09 - 2026.01* I conduct remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**.
+<!-- - *2025.09 - 2026.01* I conduct remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Cornell University**. -->
 - *2024.08 - 2025.05* I visit the _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/), at **Westlake University**. From July to September, I participated in person; then I continued to collaborate remotely.
 - *2023.09 - 2024.08* I join the _MPRG Lab_ of [Prof. Qi Liu](https://drliuqi.github.io/), at **South China University of Technology**.
 
