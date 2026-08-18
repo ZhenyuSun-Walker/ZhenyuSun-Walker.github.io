@@ -15,14 +15,11 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# ⌨️ Zhenyu Sun
-<span class='anchor' id='about-me'></span>
-<strong> Welcome to Zhenyu's website! </strong> 
-
+# Zhenyu Sun
 I am currently a PhD student in the [School of Artificial Intelligence](https://sai.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by esteemed [Prof. Yuanbo Xiangli](https://kam1107.github.io/). I earned my bachelor degree of engineering majored in Artificial Intelligence, at [School of Future Technology](https://www2.scut.edu.cn/ft/) in [South China University of Technology](https://www.scut.edu.cn/new/), with a GPA of **3.97/4.00** (rank:**1/76**). 
-
 Here is my [**CV**](/ZhenyuSun_CV.pdf) for specific information. 
 
+# Research
 My research so far has concentrated on **Next-Generation 3DV**, targeting robust, efficient, adaptive and physically plausible 3D reconstruction and generation. 
 
 I'm also interested in **Generative World Model**, aiming at realize world understanding, disambiguation, and prediction, with geometry and physics-based protocol.
