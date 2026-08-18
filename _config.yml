@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenyu Sun"
-description              : "2022 - present"
+description              : "2026 - present"
 repository               : "ZhenyuSun-Walker/zhenyu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhenyu Sun"
   avatar           : "images/homepage/android-chrome-512x512.png"
-  bio              : "South China University of Technology"
-  location         : "Guangzhou, China"
+  bio              : "Shanghai Jiao Tong University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ADd-qVsAAAAJ&hl"
@@ -51,7 +51,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  X                : "Austin_Sunzy"
+  Instagram        : "austin_garfield_sun"
   vine             :
   weibo            :
   xing             :
