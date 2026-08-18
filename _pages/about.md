@@ -15,18 +15,18 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# Zhenyu Sun
+# Zhenyu Sun {#home}
 I am currently a PhD student in the [School of Artificial Intelligence](https://sai.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by esteemed [Prof. Yuanbo Xiangli](https://kam1107.github.io/). I earned my bachelor degree of engineering majored in Artificial Intelligence, at [School of Future Technology](https://www2.scut.edu.cn/ft/) in [South China University of Technology](https://www.scut.edu.cn/new/), with a GPA of **3.97/4.00** (rank:**1/76**). 
 Here is my [**CV**](/ZhenyuSun_CV.pdf) for specific information. 
 
-# Research
+# Research {#research}
 My research so far has concentrated on **Next-Generation 3DV**, targeting robust, efficient, adaptive and physically plausible 3D reconstruction and generation. 
 
 I'm also interested in **Generative World Model**, aiming at realize world understanding, disambiguation, and prediction, with geometry and physics-based protocol.
 
 I believe the exploration above will pave the way for realizing **Multimodal Intelligence** and **Generalized Intelligence**.
 
-# 🔥 News
+# 🔥 News (#news)
 - *2026.06*: &nbsp;🎉🎉 Congrats that our [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation](https://cggs-26.github.io/cggs26/) has been accepted by **TIP 2026**！
 - *2026.06*: &nbsp;🎉🎉 My undergraduate thesis has received the **Excellent** evaluation！
 - *2026.05*: &nbsp;🌟🌟 I had the privilege of participating in **CCIG 2026**. I was delighted to reunite with [Prof. Huan Wang](https://huanwang.tech/), [Prof. Qi Liu](https://drliuqi.github.io/) and [Prof. Xiaoguang Han](https://sse.cuhk.edu.cn/en/faculty/hanxiaoguang)！
@@ -49,7 +49,7 @@ I believe the exploration above will pave the way for realizing **Multimodal Int
 - *2022.09*: &nbsp;🎉🎉 I have been admitted to **South China University of Technology (SCUT)**!
 
 
-# 📝 Publications 
+# 📝 Publications {#publications}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='/images/Publication/CGGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,7 +97,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $^\uparrow$
 </div>
 
 
-# 🥇 Honors and Awards
+# 🥇 Honors and Awards {#honors}
 - *2026.05* **Excellent Undergraduate Thesis**, for the academic year 2025-2026.
 - *2025.10* **National Scholarship**, for the academic year 2024-2025.
 - *2025.10* **Merit Student Honors**, South China University of Technology, for the academic year 2024-2025. 
@@ -109,7 +109,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $^\uparrow$
 - *2023.10* **Merit Student Honors**, South China University of Technology, for the academic year 2022-2023. 
 - *2023.09* **Third-Class South China University of Technology Scholarship**, for the academic year 2022-2023. 
 
-# 📖 Educations
+# 📖 Educations {#educations}
 - *2026.09*, SJTU, Ph.D. **(Incoming)**
 - *2022.09 - 2026.06*, SCUT, Undergraduate. 
 
@@ -118,7 +118,7 @@ Xiaohan Zhang, Yukui Qiu, **Zhenyu Sun**, Qi Liu $^\uparrow$
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 
-# 💻 Professional Experiences
+# 💻 Professional Experiences {#experiences}
 - *2026.03 - 2026.09* I'm undertaking an on-site research internship under the supervision of [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
 - *2025.09 - 2026.02* I conduct remote collaborative research with [Prof. Yuanbo Xiangli](https://kam1107.github.io/), at **Shanghai Jiao Tong University**.
 - *2024.08 - 2025.05* I visit _ENCODE Lab_ of [Prof. Huan Wang](https://huanwang.tech/) for research collaboration, at **Westlake University**. 
