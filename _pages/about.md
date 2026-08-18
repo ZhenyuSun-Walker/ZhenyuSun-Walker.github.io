@@ -15,11 +15,11 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# ⌨️ About Me
+# ⌨️ Zhenyu Sun
 <span class='anchor' id='about-me'></span>
 <strong> Welcome to Zhenyu's website! </strong> 
 
-I am **Zhenyu Sun**, a graduate student majored in Artificial Intelligence, South China University of Technology (SCUT), where I earned a GPA of **3.97/4.00** (rank:**1/76**). 
+I am currently a PhD student in the [School of Artificial Intelligence](https://sai.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by esteemed [Prof. Yuanbo Xiangli](https://kam1107.github.io/). I earned my bachelor degree of engineering majored in Artificial Intelligence, at [School of Future Technology](https://www2.scut.edu.cn/ft/) in [South China University of Technology](https://www.scut.edu.cn/new/), with a GPA of **3.97/4.00** (rank:**1/76**). 
 
 Here is my [**CV**](/ZhenyuSun_CV.pdf) for specific information. 
 
@@ -28,9 +28,6 @@ My research so far has concentrated on **Next-Generation 3DV**, targeting robust
 I'm also interested in **Generative World Model**, aiming at realize world understanding, disambiguation, and prediction, with geometry and physics-based protocol.
 
 I believe the exploration above will pave the way for realizing **Multimodal Intelligence** and **Generalized Intelligence**.
-
-## <span style="color:red;">**I will spend the Ph.D journey supervised by esteemed [Prof. Yuanbo Xiangli](https://kam1107.github.io/), in School of Artificial Intelligence, Shanghai Jiao Tong University (SJTU), from 2026 fall！**</span>
-
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Congrats that our [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation](https://cggs-26.github.io/cggs26/) has been accepted by **TIP 2026**！
