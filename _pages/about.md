@@ -27,6 +27,7 @@ I'm also interested in **Generative World Model**, aiming at realize world under
 I believe the exploration above will pave the way for realizing **Multimodal Intelligence** and **Generalized Intelligence**.
 
 # 🔥 News {#news}
+- *2026.09*: &nbsp; One paper [GarmentX: Autoregressive Parametric Representations for High-Fidelity 3D Garment Generation](https://arxiv.org/abs/2504.20409) has been accepted by **PR 2026**.
 - *2026.06*: &nbsp;🎉🎉 Congrats that our [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation](https://cggs-26.github.io/cggs26/) has been accepted by **TIP 2026**！
 - *2026.06*: &nbsp;🎉🎉 My undergraduate thesis has received the **Excellent** evaluation！
 - *2026.05*: &nbsp;🌟🌟 I had the privilege of participating in **CCIG 2026**. I was delighted to reunite with [Prof. Huan Wang](https://huanwang.tech/), [Prof. Qi Liu](https://drliuqi.github.io/) and [Prof. Xiaoguang Han](https://sse.cuhk.edu.cn/en/faculty/hanxiaoguang)！
@@ -62,7 +63,7 @@ I believe the exploration above will pave the way for realizing **Multimodal Int
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='/images/Publication/Garment-X.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='/images/Publication/Garment-X.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GarmentX: Autoregressive Parametric Representations for High-Fidelity 3D Garment Generation](https://arxiv.org/pdf/2504.20409)
