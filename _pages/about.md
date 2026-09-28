@@ -27,8 +27,9 @@ I'm also interested in **Generative World Model**, aiming at realize world under
 I believe the exploration above will pave the way for realizing **Multimodal Intelligence** and **Generalized Intelligence**.
 
 # 🔥 News {#news}
-- *2026.09*: &nbsp; One paper [GarmentX: Autoregressive Parametric Representations for High-Fidelity 3D Garment Generation](https://arxiv.org/abs/2504.20409) has been accepted by **PR 2026**.
-- *2026.06*: &nbsp;🎉🎉 Congrats that our [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation](https://cggs-26.github.io/cggs26/) has been accepted by **TIP 2026**！
+- *2026.09*: &nbsp;🎉🎉 I will serve as a reviewer for WACV 2027.
+- *2026.09*: [**PR'26**] &nbsp; One paper [GarmentX: Autoregressive Parametric Representations for High-Fidelity 3D Garment Generation](https://arxiv.org/abs/2504.20409) has been accepted by Pattern Recongnition.
+- *2026.06*: [**TIP'26**] &nbsp;🎉🎉 Congrats that our [CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-Centric 3D Scene Generation](https://cggs-26.github.io/cggs26/) has been accepted by Transactions on Image Processing (TIP, IF=15.3)！
 - *2026.06*: &nbsp;🎉🎉 My undergraduate thesis has received the **Excellent** evaluation！
 - *2026.05*: &nbsp;🌟🌟 I had the privilege of participating in **CCIG 2026**. I was delighted to reunite with [Prof. Huan Wang](https://huanwang.tech/), [Prof. Qi Liu](https://drliuqi.github.io/) and [Prof. Xiaoguang Han](https://sse.cuhk.edu.cn/en/faculty/hanxiaoguang)！
 - *2026.04*: &nbsp;🌟🌟 I was honored to participate in **China3DV 2026**, where I had the opportunity to engage in stimulating exchanges of ideas with scholars and professors in the field！
