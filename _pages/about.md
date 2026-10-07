@@ -116,7 +116,7 @@ To jointly adapt standard NeRF in large-scale aerial rendering, we propose **Aer
 - *2023.09* **Third-Class South China University of Technology Scholarship**, for the academic year 2022-2023. 
 
 # 📖 Educations {#educations}
-- *2026.09*, SJTU, Ph.D. **(Incoming)**
+- *2026.09 - present*, SJTU, Ph.D student.
 - *2022.09 - 2026.06*, SCUT, Undergraduate. 
 
 <!-- # 💬 Invited Talks
